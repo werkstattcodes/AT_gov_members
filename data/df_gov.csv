@@ -1,34 +1,54 @@
 gov,name,name_clean,position,date_start,date_end,ministry
-Kurz II,Sebastian Kurz,Sebastian Kurz,Bundeskanzler,2020-01-07,2021-04-06,Bundeskanzleramt
-Kurz II,Mag. Werner Kogler,Werner Kogler,Vizekanzler,2020-01-07,2021-04-06,Bundeskanzleramt
+Schallenberg,"Mag. Alexander Schallenberg, LL.M.",Alexander Schallenberg,Bundeskanzler,2021-10-11,2021-10-12,Bundeskanzleramt
+Schallenberg,Mag. Werner Kogler,Werner Kogler,Vizekanzler,2021-10-11,2021-10-12,Bundeskanzleramt
+Schallenberg,Mag. Karoline Edtstadler,Karoline Edtstadler,Bundesminister,2021-10-11,2021-10-12,Bundeskanzleramt
+Schallenberg,MMag. Dr. Susanne Raab,Susanne Raab,Bundesminister,2021-10-11,2021-10-12,Bundeskanzleramt
+Schallenberg,Mag. Werner Kogler,Werner Kogler,Bundesminister,2021-10-11,2021-10-12,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
+Schallenberg,Mag. Andrea Mayer,Andrea Mayer,Staatssekretärin,2021-10-11,2021-10-12,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
+Schallenberg,Dr. Michael Linhart,Michael Linhart,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für europäische und internationale Angelegenheiten
+Schallenberg,Mag. Dr. Martin Kocher,Martin Kocher,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für Arbeit
+Schallenberg,Dr. Heinz Faßmann,Heinz Faßmann,Bundesminister,2021-10-11,2021-10-12,"Bundesministerium für Bildung, Wissenschaft und Forschung"
+Schallenberg,Dr. Margarete Schramböck,Margarete Schramböck,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für Digitalisierung und Wirtschaftsstandort
+Schallenberg,"Mag. Gernot Blümel, MBA",Gernot Blümel,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für Finanzen
+Schallenberg,"Karl Nehammer, MSc",Karl Nehammer,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für Inneres
+Schallenberg,"Dr. Alma Zadić, LL.M.",Alma Zadić,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für Justiz
+Schallenberg,"Leonore Gewessler, BA",Leonore Gewessler,Bundesminister,2021-10-11,2021-10-12,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
+Schallenberg,"Dr. Magnus Brunner, LL.M.",Magnus Brunner,Staatssekretär,2021-10-11,2021-10-12,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
+Schallenberg,Mag. Klaudia Tanner,Klaudia Tanner,Bundesminister,2021-10-11,2021-10-12,Bundesministerium für Landesverteidigung
+Schallenberg,Elisabeth Köstinger,Elisabeth Köstinger,Bundesminister,2021-10-11,2021-10-12,"Bundesministerium für Landwirtschaft, Regionen und Tourismus"
+Schallenberg,Dr. Wolfgang Mückstein,Wolfgang Mückstein,Bundesminister,2021-10-11,2021-10-12,"Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+Kurz II,Sebastian Kurz,Sebastian Kurz,Bundeskanzler,2020-01-07,2021-10-11,Bundeskanzleramt
+Kurz II,Mag. Werner Kogler,Werner Kogler,Vizekanzler,2020-01-07,2021-10-11,Bundeskanzleramt
 Kurz II,Mag. (FH) Christine Aschbacher,Christine Aschbacher,Bundesministerin,2020-01-08,2020-01-29,Bundeskanzleramt
 Kurz II,Mag. Karoline Edtstadler,Karoline Edtstadler,Bundesministerin,2020-01-08,2020-01-29,Bundeskanzleramt
 Kurz II,MMag. Dr. Susanne Raab,Susanne Raab,Bundesministerin,2020-01-08,2020-01-29,Bundeskanzleramt
-Kurz II,Mag. Karoline Edtstadler,Karoline Edtstadler,Bundesministerin für EU und Verfassung,2020-01-29,2021-04-06,Bundeskanzleramt
-Kurz II,MMag. Dr. Susanne Raab,Susanne Raab,"Bundesministerin für Frauen, Familie, Jugend und Integration im Bundeskanzleramt",2021-02-02,2021-04-06,Bundeskanzleramt
+Kurz II,Mag. Karoline Edtstadler,Karoline Edtstadler,Bundesministerin für EU und Verfassung,2020-01-29,2021-10-11,Bundeskanzleramt
+Kurz II,MMag. Dr. Susanne Raab,Susanne Raab,"Bundesministerin für Frauen, Familie, Jugend und Integration",2021-02-02,2021-10-11,Bundeskanzleramt
 Kurz II,MMag. Dr. Susanne Raab,Susanne Raab,Bundesministerin für Frauen und Integration,2020-01-29,2021-02-01,Bundeskanzleramt
 Kurz II,Mag. (FH) Christine Aschbacher,Christine Aschbacher,Bundesministerin ohne Portefeuille,2020-01-07,2020-01-08,Bundeskanzleramt
 Kurz II,Mag. Karoline Edtstadler,Karoline Edtstadler,Bundesministerin ohne Portefeuille,2020-01-07,2020-01-08,Bundeskanzleramt
 Kurz II,MMag. Dr. Susanne Raab,Susanne Raab,Bundesministerin ohne Portefeuille,2020-01-07,2020-01-08,Bundeskanzleramt
-Kurz II,Mag. Werner Kogler,Werner Kogler,Bundesminister,2020-01-29,2021-04-06,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
-Kurz II,Mag. Andrea Mayer,Andrea Mayer,Staatssekretärin,2020-05-20,2021-04-06,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
+Kurz II,Mag. Karoline Edtstadler,Karoline Edtstadler,Betraut mit der Vertretung der Bundesministerin,2021-06-15,2021-09-07,"Büro der Bundesministerin für Frauen, Familie, Jugend und Integration"
+Kurz II,Mag. Werner Kogler,Werner Kogler,Bundesminister,2020-01-29,2021-10-11,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
+Kurz II,Mag. Andrea Mayer,Andrea Mayer,Staatssekretärin,2020-05-20,2021-10-11,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
 Kurz II,Mag. Ulrike Lunacek,Ulrike Lunacek,Staatssekretärin,2020-01-29,2020-05-20,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
-Kurz II,"Mag. Alexander Schallenberg, LL.M.",Alexander Schallenberg,Bundesminister,2020-01-29,2021-04-06,Bundesministerium für europäische und internationale Angelegenheiten
-Kurz II,Mag. Dr. Martin Kocher,Martin Kocher,Bundesminister,2021-02-01,2021-04-06,Bundesministerium für Arbeit
-Kurz II,Dr. Heinz Faßmann,Heinz Faßmann,Bundesminister,2020-01-07,2021-04-06,"Bundesministerium für Bildung, Wissenschaft und Forschung"
-Kurz II,Dr. Margarete Schramböck,Margarete Schramböck,Bundesministerin,2020-01-07,2021-04-06,Bundesministerium für Digitalisierung und Wirtschaftsstandort
-Kurz II,"Mag. Gernot Blümel, MBA",Gernot Blümel,Bundesminister,2020-01-07,2021-04-06,Bundesministerium für Finanzen
-Kurz II,"Karl Nehammer, MSc",Karl Nehammer,Bundesminister,2020-01-07,2021-04-06,Bundesministerium für Inneres
-Kurz II,"Dr. Alma Zadić, LL.M.",Alma Zadić,Bundesministerin,2020-01-29,2021-04-06,Bundesministerium für Justiz
+Kurz II,"Mag. Alexander Schallenberg, LL.M.",Alexander Schallenberg,Bundesminister,2020-01-29,2021-10-11,Bundesministerium für europäische und internationale Angelegenheiten
+Kurz II,Mag. Dr. Martin Kocher,Martin Kocher,Bundesminister,2021-02-01,2021-10-11,Bundesministerium für Arbeit
+Kurz II,Dr. Heinz Faßmann,Heinz Faßmann,Bundesminister,2020-01-07,2021-10-11,"Bundesministerium für Bildung, Wissenschaft und Forschung"
+Kurz II,Dr. Margarete Schramböck,Margarete Schramböck,Bundesministerin,2020-01-07,2021-10-11,Bundesministerium für Digitalisierung und Wirtschaftsstandort
+Kurz II,"Mag. Gernot Blümel, MBA",Gernot Blümel,Bundesminister,2020-01-07,2021-10-11,Bundesministerium für Finanzen
+Kurz II,"Karl Nehammer, MSc",Karl Nehammer,Bundesminister,2020-01-07,2021-10-11,Bundesministerium für Inneres
+Kurz II,"Dr. Alma Zadić, LL.M.",Alma Zadić,Bundesministerin,2020-01-29,2021-10-11,Bundesministerium für Justiz
 Kurz II,Mag. Werner Kogler,Werner Kogler,Betraut mit der Vertretung der Bundesministerin,2021-01-08,2021-03-14,Bundesministerium für Justiz
-Kurz II,"Leonore Gewessler, BA",Leonore Gewessler,Bundesministerin,2020-01-29,2021-04-06,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
-Kurz II,"Dr. Magnus Brunner, LL.M.",Magnus Brunner,Staatssekretär,2020-01-29,2021-04-06,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
-Kurz II,Mag. Klaudia Tanner,Klaudia Tanner,Bundesministerin,2020-01-07,2021-04-06,Bundesministerium für Landesverteidigung
-Kurz II,Elisabeth Köstinger,Elisabeth Köstinger,Bundesministerin,2020-01-29,2021-04-06,"Bundesministerium für Landwirtschaft, Regionen und Tourismus"
-Kurz II,Rudolf Anschober,Rudolf Anschober,Bundesminister,2020-01-29,2021-04-06,"Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+Kurz II,"Leonore Gewessler, BA",Leonore Gewessler,Bundesministerin,2020-01-29,2021-10-11,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
+Kurz II,"Dr. Magnus Brunner, LL.M.",Magnus Brunner,Staatssekretär,2020-01-29,2021-10-11,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
+Kurz II,Mag. Klaudia Tanner,Klaudia Tanner,Bundesministerin,2020-01-07,2021-10-11,Bundesministerium für Landesverteidigung
+Kurz II,Elisabeth Köstinger,Elisabeth Köstinger,Bundesministerin,2020-01-29,2021-10-11,"Bundesministerium für Landwirtschaft, Regionen und Tourismus"
+Kurz II,Dr. Wolfgang Mückstein,Wolfgang Mückstein,Bundesminister,2021-04-19,2021-10-11,"Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+Kurz II,Rudolf Anschober,Rudolf Anschober,Bundesminister,2020-01-29,2021-04-19,"Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
 Kurz II,Mag. Werner Kogler,Werner Kogler,Bundesminister,2020-01-07,2020-01-29,Bundesministerium für öffentlichen Dienst und Sport
 Kurz II,Mag. Ulrike Lunacek,Ulrike Lunacek,Staatssekretärin,2020-01-07,2020-01-29,Bundesministerium für öffentlichen Dienst und Sport
-Kurz II,"Mag. Alexander Schallenberg, LL.M.",Alexander Schallenberg,Bundesminister,2020-01-07,2020-01-28,"Bundesministerium für Europa, Integration und Äußeres"
+Kurz II,"Mag. Alexander Schallenberg, LL.M.",Alexander Schallenberg,"Bundesminister für Europa, Integration und Äußeres",2020-01-07,2020-01-28,"Bundesministerium für Europa, Integration und Äußeres"
 Kurz II,Rudolf Anschober,Rudolf Anschober,Bundesminister,2020-01-07,2020-01-29,"Bundesministerium für Arbeit, Soziales, Gesundheit und Konsumentenschutz"
 Kurz II,Elisabeth Köstinger,Elisabeth Köstinger,Bundesministerin,2020-01-07,2020-01-29,Bundesministerium für Nachhaltigkeit und Tourismus
 Kurz II,"Dr. Alma Zadić, LL.M.",Alma Zadić,Bundesministerin,2020-01-07,2020-01-29,"Bundesministerium für Verfassung, Reformen, Deregulierung und Justiz"
@@ -99,665 +119,23 @@ Kurz I,Dr. Josef Moser,Josef Moser,Bundesminister,2017-12-18,2018-01-08,Bundesmi
 Kurz I,Mario Kunasek,Mario Kunasek,Bundesminister,2017-12-18,2018-01-08,Bundesministerium für Landesverteidigung und Sport
 Kurz I,Elisabeth Köstinger,Elisabeth Köstinger,Bundesministerin,2017-12-18,2018-01-08,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
 Kurz I,Dr. Margarete Schramböck,Margarete Schramböck,Bundesministerin,2017-12-18,2018-01-08,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
-Kern,Mag. Christian Kern,Christian Kern,Bundeskanzler,2016-05-17,2017-12-18,Bundeskanzleramt
-Kern,Dr. Wolfgang Brandstetter,Wolfgang Brandstetter,Vizekanzler,2017-05-17,2017-12-18,Bundeskanzleramt
-Kern,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Vizekanzler,2016-05-17,2017-05-17,Bundeskanzleramt
-Kern,Mag. Thomas Drozda,Thomas Drozda,"Bundesminister für Kunst und Kultur, Verfassung und Medien",2016-05-25,2017-12-18,Bundeskanzleramt
-Kern,Dr. Josef Ostermayer,Josef Ostermayer,"Bundesminister für Kunst und Kultur, Verfassung und Medien",2016-05-17,2016-05-18,Bundeskanzleramt
-Kern,Mag. Thomas Drozda,Thomas Drozda,Bundesminister ohne Portefeuille,2016-05-18,2016-05-24,Bundeskanzleramt
-Kern,Mag. Muna Duzdar,Muna Duzdar,Staatssekretärin,2016-05-18,2017-12-18,Bundeskanzleramt
-Kern,Mag. Sonja Steßl,Sonja Steßl,Staatssekretärin,2016-05-17,2016-05-18,Bundeskanzleramt
 Kern,Sebastian Kurz,Sebastian Kurz,Bundesminister,2016-05-17,2017-12-18,"Bundesministerium für Europa, Integration und Äußeres"
-Kern,"Alois Stöger, diplômé",Alois Stöger,Bundesminister,2016-05-17,2017-12-18,"Bundesministerium für Arbeit, Soziales und Konsumentenschutz"
-Kern,Mag. Dr. Sonja Hammerschmid,Sonja Hammerschmid,Bundesministerin,2016-07-01,2017-12-18,Bundesministerium für Bildung
-Kern,MMag. Dr. Sophie Karmasin,Sophie Karmasin,Bundesministerin,2016-05-17,2017-12-18,Bundesministerium für Familien und Jugend
-Kern,Dr. Johann Georg Schelling,Johann Georg Schelling,Bundesminister,2016-05-17,2017-12-18,Bundesministerium für Finanzen
-Kern,"Dr. Pamela Rendi-Wagner, MSc",Pamela Rendi-Wagner,Bundesministerin,2017-03-08,2017-12-18,Bundesministerium für Gesundheit und Frauen
-Kern,"Alois Stöger, diplômé",Alois Stöger,Betraut mit der Fortführung der Verwaltung des Bundesministeriums,2017-02-24,2017-03-07,Bundesministerium für Gesundheit und Frauen
-Kern,"Dr. Sabine Oberhauser, MAS",Sabine Oberhauser,Bundesministerin,2016-07-01,2017-02-23,Bundesministerium für Gesundheit und Frauen
-Kern,Mag. Wolfgang Sobotka,Wolfgang Sobotka,Bundesminister,2016-05-17,2017-12-18,Bundesministerium für Inneres
-Kern,Dr. Wolfgang Brandstetter,Wolfgang Brandstetter,Bundesminister,2016-05-17,2017-12-18,Bundesministerium für Justiz
-Kern,Mag. Hans Peter Doskozil,Hans Peter Doskozil,Bundesminister,2016-05-17,2017-12-18,Bundesministerium für Landesverteidigung und Sport
-Kern,Dipl.-Ing. Andrä Rupprechter,Andrä Rupprechter,Bundesminister,2016-05-17,2017-12-18,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
-Kern,Mag. Jörg Leichtfried,Jörg Leichtfried,Bundesminister,2016-05-18,2017-12-18,"Bundesministerium für Verkehr, Innovation und Technologie"
-Kern,Mag. Gerald Klug,Gerald Klug,Bundesminister,2016-05-17,2016-05-18,"Bundesministerium für Verkehr, Innovation und Technologie"
-Kern,Mag. Dr. Harald Mahrer,Harald Mahrer,Bundesminister,2017-05-17,2017-12-18,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
-Kern,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Bundesminister,2016-05-17,2017-05-17,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
-Kern,Mag. Dr. Harald Mahrer,Harald Mahrer,Staatssekretär,2016-05-17,2017-05-17,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
-Kern,Mag. Dr. Sonja Hammerschmid,Sonja Hammerschmid,Bundesministerin,2016-05-18,2016-06-30,Bundesministerium für Bildung und Frauen
-Kern,Gabriele Heinisch-Hosek,Gabriele Heinisch-Hosek,Bundesministerin,2016-05-17,2016-05-18,Bundesministerium für Bildung und Frauen
-Kern,"Dr. Sabine Oberhauser, MAS",Sabine Oberhauser,Bundesministerin,2016-05-17,2016-06-30,Bundesministerium für Gesundheit
 Faymann II,Werner Faymann,Werner Faymann,Bundeskanzler,2013-12-16,2016-05-09,Bundeskanzleramt
-Faymann II,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Vizekanzler,2014-09-01,2016-05-17,Bundeskanzleramt
-Faymann II,Dr. Michael Spindelegger,Michael Spindelegger,Vizekanzler,2013-12-16,2014-09-01,Bundeskanzleramt
-Faymann II,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Betraut mit der vorläufigen Fortführung der Verwaltung des Bundeskanzleramtes und mit dem Vorsitz in der Bundesregierung bis zur Bestellung eines neuen Bundeskanzlers,2016-05-09,2016-05-17,Bundeskanzleramt
-Faymann II,Dr. Josef Ostermayer,Josef Ostermayer,Bundesminister,2013-12-16,2014-02-28,Bundeskanzleramt
-Faymann II,Dr. Josef Ostermayer,Josef Ostermayer,"Bundesminister für Kunst und Kultur, Verfassung und Medien",2014-09-02,2016-05-17,Bundeskanzleramt
-Faymann II,Dr. Josef Ostermayer,Josef Ostermayer,"Bundesminister für Kunst und Kultur, Verfassung und öffentlichen Dienst",2014-03-01,2014-09-01,Bundeskanzleramt
-Faymann II,MMag. Dr. Sophie Karmasin,Sophie Karmasin,Bundesministerin ohne Portefeuille,2013-12-16,2014-03-01,Bundeskanzleramt
-Faymann II,Mag. Sonja Steßl,Sonja Steßl,Staatssekretärin,2014-09-01,2016-05-17,Bundeskanzleramt
 Faymann II,Sebastian Kurz,Sebastian Kurz,Bundesminister,2014-03-01,2016-05-17,"Bundesministerium für Europa, Integration und Äußeres"
-Faymann II,"Alois Stöger, diplômé",Alois Stöger,Bundesminister,2016-01-26,2016-05-17,"Bundesministerium für Arbeit, Soziales und Konsumentenschutz"
-Faymann II,Rudolf Hundstorfer,Rudolf Hundstorfer,Bundesminister,2013-12-16,2016-01-26,"Bundesministerium für Arbeit, Soziales und Konsumentenschutz"
-Faymann II,Gabriele Heinisch-Hosek,Gabriele Heinisch-Hosek,Bundesministerin,2014-03-01,2016-05-17,Bundesministerium für Bildung und Frauen
-Faymann II,MMag. Dr. Sophie Karmasin,Sophie Karmasin,Bundesministerin,2014-03-01,2016-05-17,Bundesministerium für Familien und Jugend
-Faymann II,Dr. Johann Georg Schelling,Johann Georg Schelling,Bundesminister,2014-09-01,2016-05-17,Bundesministerium für Finanzen
-Faymann II,Dr. Michael Spindelegger,Michael Spindelegger,Bundesminister,2013-12-16,2014-09-01,Bundesministerium für Finanzen
-Faymann II,Mag. Sonja Steßl,Sonja Steßl,Staatssekretärin,2013-12-16,2014-09-01,Bundesministerium für Finanzen
-Faymann II,Mag. Jochen Danninger,Jochen Danninger,Staatssekretär,2013-12-16,2014-08-31,Bundesministerium für Finanzen
-Faymann II,"Dr. Sabine Oberhauser, MAS",Sabine Oberhauser,Bundesministerin,2014-09-01,2016-05-17,Bundesministerium für Gesundheit
-Faymann II,"Alois Stöger, diplômé",Alois Stöger,Bundesminister,2013-12-16,2014-09-01,Bundesministerium für Gesundheit
-Faymann II,Mag. Wolfgang Sobotka,Wolfgang Sobotka,Bundesminister,2016-04-21,2016-05-17,Bundesministerium für Inneres
-Faymann II,Mag. Johanna Mikl-Leitner,Johanna Mikl-Leitner,Bundesministerin,2013-12-16,2016-04-21,Bundesministerium für Inneres
-Faymann II,Dr. Wolfgang Brandstetter,Wolfgang Brandstetter,Bundesminister,2013-12-16,2016-05-17,Bundesministerium für Justiz
-Faymann II,Mag. Hans Peter Doskozil,Hans Peter Doskozil,Bundesminister,2016-01-26,2016-05-17,Bundesministerium für Landesverteidigung und Sport
-Faymann II,Mag. Gerald Klug,Gerald Klug,Bundesminister,2013-12-16,2016-01-26,Bundesministerium für Landesverteidigung und Sport
-Faymann II,Dipl.-Ing. Andrä Rupprechter,Andrä Rupprechter,Bundesminister,2013-12-16,2016-05-17,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
-Faymann II,Mag. Gerald Klug,Gerald Klug,Bundesminister,2016-01-26,2016-05-17,"Bundesministerium für Verkehr, Innovation und Technologie"
-Faymann II,"Alois Stöger, diplômé",Alois Stöger,Bundesminister,2014-09-01,2016-01-26,"Bundesministerium für Verkehr, Innovation und Technologie"
 Faymann II,Doris Bures,Doris Bures,Bundesministerin,2013-12-16,2014-09-01,"Bundesministerium für Verkehr, Innovation und Technologie"
-Faymann II,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Bundesminister,2014-03-01,2016-05-17,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
-Faymann II,Mag. Dr. Harald Mahrer,Harald Mahrer,Staatssekretär,2014-09-01,2016-05-17,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
 Faymann II,Sebastian Kurz,Sebastian Kurz,Bundesminister,2013-12-16,2014-02-28,Bundesministerium für europäische und internationale Angelegenheiten
-Faymann II,Gabriele Heinisch-Hosek,Gabriele Heinisch-Hosek,Bundesministerin,2013-12-16,2014-02-28,"Bundesministerium für Unterricht, Kunst und Kultur"
-Faymann II,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Bundesminister,2013-12-16,2014-02-28,"Bundesministerium für Wirtschaft, Familie und Jugend"
-Faymann II,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Betraut mit der Leitung des Bundesministeriums,2013-12-16,2014-02-28,Bundesministerium für Wissenschaft und Forschung
 Faymann I,Werner Faymann,Werner Faymann,Bundeskanzler,2008-12-02,2013-12-16,Bundeskanzleramt
-Faymann I,Dr. Michael Spindelegger,Michael Spindelegger,Vizekanzler,2011-04-21,2013-12-16,Bundeskanzleramt
-Faymann I,Dipl.-Ing. Josef Pröll,Josef Pröll,Vizekanzler,2008-12-02,2011-04-20,Bundeskanzleramt
-Faymann I,Gabriele Heinisch-Hosek,Gabriele Heinisch-Hosek,Bundesministerin für Frauen und öffentlichen Dienst,2008-12-22,2013-12-16,Bundeskanzleramt
-Faymann I,Gabriele Heinisch-Hosek,Gabriele Heinisch-Hosek,Bundesministerin ohne Portefeuille,2008-12-02,2008-12-21,Bundeskanzleramt
-Faymann I,Dr. Josef Ostermayer,Josef Ostermayer,Staatssekretär,2008-12-02,2013-12-16,Bundeskanzleramt
-Faymann I,Dr. Michael Spindelegger,Michael Spindelegger,Bundesminister,2008-12-02,2013-12-16,Bundesministerium für europäische und internationale Angelegenheiten
-Faymann I,Dr. Reinhold Lopatka,Reinhold Lopatka,Staatssekretär,2012-09-11,2013-12-16,Bundesministerium für europäische und internationale Angelegenheiten
-Faymann I,Dr. Wolfgang Waldner,Wolfgang Waldner,Staatssekretär,2011-04-21,2012-09-02,Bundesministerium für europäische und internationale Angelegenheiten
-Faymann I,Rudolf Hundstorfer,Rudolf Hundstorfer,Bundesminister,2009-02-01,2013-12-16,"Bundesministerium für Arbeit, Soziales und Konsumentenschutz"
-Faymann I,Mag. Dr. Maria Theresia Fekter,Maria Theresia Fekter,Bundesministerin,2011-04-21,2013-12-16,Bundesministerium für Finanzen
-Faymann I,Dipl.-Ing. Josef Pröll,Josef Pröll,Bundesminister,2008-12-02,2011-04-20,Bundesministerium für Finanzen
-Faymann I,Mag. Andreas Schieder,Andreas Schieder,Staatssekretär,2008-12-02,2013-12-16,Bundesministerium für Finanzen
-Faymann I,Dr. Reinhold Lopatka,Reinhold Lopatka,Staatssekretär,2008-12-02,2011-04-20,Bundesministerium für Finanzen
-Faymann I,"Alois Stöger, diplômé",Alois Stöger,Bundesminister,2009-02-01,2013-12-16,Bundesministerium für Gesundheit
-Faymann I,Mag. Johanna Mikl-Leitner,Johanna Mikl-Leitner,Bundesministerin,2011-04-21,2013-12-16,Bundesministerium für Inneres
-Faymann I,Mag. Dr. Maria Theresia Fekter,Maria Theresia Fekter,Bundesministerin,2008-12-02,2011-04-20,Bundesministerium für Inneres
 Faymann I,Sebastian Kurz,Sebastian Kurz,Staatssekretär,2011-04-21,2013-12-16,Bundesministerium für Inneres
-Faymann I,Mag. Dr. Beatrix Karl,Beatrix Karl,Bundesministerin,2011-04-21,2013-12-16,Bundesministerium für Justiz
-Faymann I,Mag. Claudia Bandion-Ortner,Claudia Bandion-Ortner,Bundesministerin,2009-01-15,2011-04-20,Bundesministerium für Justiz
-Faymann I,Mag. Gerald Klug,Gerald Klug,Bundesminister,2013-03-11,2013-12-16,Bundesministerium für Landesverteidigung und Sport
-Faymann I,Mag. Norbert Darabos,Norbert Darabos,Bundesminister,2009-02-01,2013-03-11,Bundesministerium für Landesverteidigung und Sport
-Faymann I,Dipl.-Ing. Nikolaus Berlakovich,Nikolaus Berlakovich,Bundesminister,2008-12-02,2013-12-16,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
-Faymann I,Dr. Claudia Schmied,Claudia Schmied,Bundesministerin,2008-12-02,2013-12-16,"Bundesministerium für Unterricht, Kunst und Kultur"
 Faymann I,Doris Bures,Doris Bures,Bundesministerin,2008-12-02,2013-12-16,"Bundesministerium für Verkehr, Innovation und Technologie"
-Faymann I,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Bundesminister,2009-02-01,2013-12-16,"Bundesministerium für Wirtschaft, Familie und Jugend"
-Faymann I,Mag. Verena Remler,Verena Remler,Staatssekretärin,2010-11-26,2011-04-20,"Bundesministerium für Wirtschaft, Familie und Jugend"
-Faymann I,Christine Marek,Christine Marek,Staatssekretärin,2009-02-01,2010-11-26,"Bundesministerium für Wirtschaft, Familie und Jugend"
-Faymann I,Dr. Karlheinz Töchterle,Karlheinz Töchterle,Bundesminister,2011-04-21,2013-12-16,Bundesministerium für Wissenschaft und Forschung
-Faymann I,Mag. Dr. Beatrix Karl,Beatrix Karl,Bundesministerin,2010-01-26,2011-04-20,Bundesministerium für Wissenschaft und Forschung
-Faymann I,Dr. Johannes Hahn,Johannes Hahn,Bundesminister,2008-12-02,2010-01-26,Bundesministerium für Wissenschaft und Forschung
-Faymann I,"Alois Stöger, diplômé",Alois Stöger,Bundesminister,2008-12-02,2009-01-31,"Bundesministerium für Gesundheit, Familie und Jugend"
-Faymann I,Dr. Johannes Hahn,Johannes Hahn,Betraut mit der Leitung des Bundesministeriums,2008-12-02,2009-01-15,Bundesministerium für Justiz
-Faymann I,Mag. Norbert Darabos,Norbert Darabos,Bundesminister,2008-12-02,2009-01-31,Bundesministerium für Landesverteidigung
-Faymann I,Rudolf Hundstorfer,Rudolf Hundstorfer,Bundesminister,2008-12-02,2009-01-31,Bundesministerium für Soziales und Konsumentenschutz
-Faymann I,Dr. Reinhold Mitterlehner,Reinhold Mitterlehner,Bundesminister,2008-12-02,2009-01-31,Bundesministerium für Wirtschaft und Arbeit
-Faymann I,Christine Marek,Christine Marek,Staatssekretärin,2008-12-02,2009-01-31,Bundesministerium für Wirtschaft und Arbeit
-Gusenbauer,Dr. Alfred Gusenbauer,Alfred Gusenbauer,Bundeskanzler,2007-01-11,2008-12-02,Bundeskanzleramt
-Gusenbauer,Mag. Wilhelm Molterer,Wilhelm Molterer,Vizekanzler,2007-01-11,2008-12-02,Bundeskanzleramt
 Gusenbauer,Doris Bures,Doris Bures,"Bundesministerin für Frauen, Medien und öffentlichen Dienst",2007-03-01,2008-07-01,Bundeskanzleramt
-Gusenbauer,Heidrun Silhavy,Heidrun Silhavy,"Bundesministerin für Frauen, Medien und Regionalpolitik",2008-07-01,2008-12-02,Bundeskanzleramt
 Gusenbauer,Doris Bures,Doris Bures,Bundesministerin ohne Portefeuille,2007-01-11,2007-02-28,Bundeskanzleramt
-Gusenbauer,Dr. Johannes Hahn,Johannes Hahn,Bundesminister ohne Portefeuille,2007-01-11,2007-02-28,Bundeskanzleramt
-Gusenbauer,Dr. Reinhold Lopatka,Reinhold Lopatka,Staatssekretär,2007-01-11,2008-12-02,Bundeskanzleramt
-Gusenbauer,Mag. Andreas Schieder,Andreas Schieder,Staatssekretär,2008-07-01,2008-12-02,Bundeskanzleramt
-Gusenbauer,Heidrun Silhavy,Heidrun Silhavy,Staatssekretärin,2007-01-11,2008-06-30,Bundeskanzleramt
-Gusenbauer,Dr. Ursula Plassnik,Ursula Plassnik,Bundesministerin,2007-03-01,2008-12-02,Bundesministerium für europäische und internationale Angelegenheiten
-Gusenbauer,Dr. Hans Winkler,Hans Winkler,Staatssekretär,2007-03-01,2008-12-02,Bundesministerium für europäische und internationale Angelegenheiten
-Gusenbauer,Mag. Wilhelm Molterer,Wilhelm Molterer,Bundesminister,2007-01-11,2008-12-02,Bundesministerium für Finanzen
-Gusenbauer,Dr. Christoph Matznetter,Christoph Matznetter,Staatssekretär,2007-01-11,2008-12-02,Bundesministerium für Finanzen
-Gusenbauer,Dr. Andrea Kdolsky,Andrea Kdolsky,Bundesministerin,2007-03-01,2008-12-02,"Bundesministerium für Gesundheit, Familie und Jugend"
-Gusenbauer,Mag. Dr. Maria Theresia Fekter,Maria Theresia Fekter,Bundesministerin,2008-07-01,2008-12-02,Bundesministerium für Inneres
-Gusenbauer,Mag. Wilhelm Molterer,Wilhelm Molterer,Betraut mit der Leitung des Bundesministeriums,2008-06-30,2008-07-01,Bundesministerium für Inneres
-Gusenbauer,Günther Platter,Günther Platter,Bundesminister,2007-01-11,2008-06-30,Bundesministerium für Inneres
-Gusenbauer,Dr. Maria Berger,Maria Berger,Bundesministerin,2007-01-11,2008-12-02,Bundesministerium für Justiz
-Gusenbauer,Mag. Norbert Darabos,Norbert Darabos,Bundesminister,2007-01-11,2008-12-02,Bundesministerium für Landesverteidigung
-Gusenbauer,Dipl.-Ing. Josef Pröll,Josef Pröll,Bundesminister,2007-01-11,2008-12-02,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
-Gusenbauer,Dr. Erwin Buchinger,Erwin Buchinger,Bundesminister,2007-03-01,2008-12-02,Bundesministerium für Soziales und Konsumentenschutz
-Gusenbauer,Dr. Claudia Schmied,Claudia Schmied,Bundesministerin,2007-03-01,2008-12-02,"Bundesministerium für Unterricht, Kunst und Kultur"
 Gusenbauer,Werner Faymann,Werner Faymann,Bundesminister,2007-01-11,2008-12-02,"Bundesministerium für Verkehr, Innovation und Technologie"
-Gusenbauer,Christa Kranzl,Christa Kranzl,Staatssekretärin,2007-01-11,2008-12-02,"Bundesministerium für Verkehr, Innovation und Technologie"
-Gusenbauer,Dr. Martin Bartenstein,Martin Bartenstein,Bundesminister,2007-01-11,2008-12-02,Bundesministerium für Wirtschaft und Arbeit
-Gusenbauer,Christine Marek,Christine Marek,Staatssekretärin,2007-01-11,2008-12-02,Bundesministerium für Wirtschaft und Arbeit
-Gusenbauer,Dr. Johannes Hahn,Johannes Hahn,Bundesminister,2007-03-01,2008-12-02,Bundesministerium für Wissenschaft und Forschung
-Gusenbauer,Dr. Ursula Plassnik,Ursula Plassnik,Bundesministerin,2007-01-11,2007-02-28,Bundesministerium für auswärtige Angelegenheiten
-Gusenbauer,Dr. Hans Winkler,Hans Winkler,Staatssekretär,2007-01-11,2007-02-28,Bundesministerium für auswärtige Angelegenheiten
-Gusenbauer,Dr. Claudia Schmied,Claudia Schmied,Bundesministerin,2007-01-11,2007-02-28,"Bundesministerium für Bildung, Wissenschaft und Kultur"
-Gusenbauer,Dr. Andrea Kdolsky,Andrea Kdolsky,Bundesministerin,2007-01-11,2007-02-28,Bundesministerium für Gesundheit und Frauen
-Gusenbauer,Dr. Erwin Buchinger,Erwin Buchinger,Bundesminister,2007-01-11,2007-02-28,"Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz"
-Schüssel II,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundeskanzler,2003-02-28,2007-01-11,Bundeskanzleramt
-Schüssel II,Hubert Gorbach,Hubert Gorbach,Vizekanzler,2003-10-21,2007-01-11,Bundeskanzleramt
-Schüssel II,Mag. Herbert Haupt,Herbert Haupt,Vizekanzler,2003-02-28,2003-10-21,Bundeskanzleramt
-Schüssel II,Maria Rauch-Kallat,Maria Rauch-Kallat,Bundesministerin ohne Portefeuille,2003-02-28,2003-04-30,Bundeskanzleramt
-Schüssel II,Franz Morak,Franz Morak,Staatssekretär,2003-02-28,2007-01-11,Bundeskanzleramt
-Schüssel II,Mag. Karl Schweitzer,Karl Schweitzer,Staatssekretär,2003-02-28,2007-01-11,Bundeskanzleramt
-Schüssel II,Dr. Reinhart Waneck,Reinhart Waneck,Staatssekretär (Unterstützung in der Geschäftsführung und zur parlamentarischen Vertretung der Bundesministerin Maria Rauch-Kallat) ohne Portefeuille,2003-02-28,2003-04-30,Bundeskanzleramt
-Schüssel II,Dr. Ursula Plassnik,Ursula Plassnik,Bundesministerin,2004-10-20,2007-01-11,Bundesministerium für auswärtige Angelegenheiten
-Schüssel II,Dr. Benita Ferrero-Waldner,Benita Ferrero-Waldner,Bundesministerin,2003-02-28,2004-10-20,Bundesministerium für auswärtige Angelegenheiten
-Schüssel II,Dr. Hans Winkler,Hans Winkler,Staatssekretär,2005-07-04,2007-01-11,Bundesministerium für auswärtige Angelegenheiten
-Schüssel II,Elisabeth Gehrer,Elisabeth Gehrer,Bundesministerin,2003-02-28,2007-01-11,"Bundesministerium für Bildung, Wissenschaft und Kultur"
-Schüssel II,Mag. Karl-Heinz Grasser,Karl-Heinz Grasser,Bundesminister,2003-02-28,2007-01-11,Bundesministerium für Finanzen
-Schüssel II,Dr. Alfred Finz,Alfred Finz,Staatssekretär,2003-02-28,2007-01-11,Bundesministerium für Finanzen
-Schüssel II,Maria Rauch-Kallat,Maria Rauch-Kallat,Bundesministerin,2003-05-01,2007-01-11,Bundesministerium für Gesundheit und Frauen
-Schüssel II,Dr. Reinhart Waneck,Reinhart Waneck,Staatssekretär,2003-05-01,2004-06-25,Bundesministerium für Gesundheit und Frauen
-Schüssel II,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Betraut mit der Leitung des Bundesministeriums,2007-01-02,2007-01-11,Bundesministerium für Inneres
-Schüssel II,Liese Prokop,Liese Prokop,Bundesministerin,2004-12-22,2006-12-31,Bundesministerium für Inneres
-Schüssel II,Günther Platter,Günther Platter,Betraut mit der Leitung des Bundesministeriums,2004-12-11,2004-12-22,Bundesministerium für Inneres
-Schüssel II,Dr. Ernst Strasser,Ernst Strasser,Bundesminister,2003-02-28,2004-12-11,Bundesministerium für Inneres
-Schüssel II,Mag. Karin Gastinger,Karin Gastinger,Bundesministerin,2005-07-24,2007-01-11,Bundesministerium für Justiz
-Schüssel II,Mag. Karin Miklautsch,Karin Miklautsch,Bundesministerin,2004-06-25,2005-07-23,Bundesministerium für Justiz
-Schüssel II,Dr. Dieter Böhmdorfer,Dieter Böhmdorfer,Bundesminister,2003-02-28,2004-06-25,Bundesministerium für Justiz
-Schüssel II,Günther Platter,Günther Platter,Bundesminister,2003-02-28,2007-01-11,Bundesministerium für Landesverteidigung
-Schüssel II,Dipl.-Ing. Josef Pröll,Josef Pröll,Bundesminister,2003-02-28,2007-01-11,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
-Schüssel II,Ursula Haubner,Ursula Haubner,Bundesministerin,2005-01-26,2007-01-11,"Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz"
-Schüssel II,Mag. Herbert Haupt,Herbert Haupt,Bundesminister,2003-05-01,2005-01-25,"Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz"
-Schüssel II,Sigisbert Dolinschek,Sigisbert Dolinschek,Staatssekretär,2005-01-26,2007-01-11,"Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz"
-Schüssel II,Ursula Haubner,Ursula Haubner,Staatssekretärin,2003-05-01,2005-01-25,"Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz"
-Schüssel II,Hubert Gorbach,Hubert Gorbach,Bundesminister,2003-02-28,2007-01-11,"Bundesministerium für Verkehr, Innovation und Technologie"
-Schüssel II,Mag. Helmut Kukacka,Helmut Kukacka,Staatssekretär,2003-02-28,2007-01-11,"Bundesministerium für Verkehr, Innovation und Technologie"
-Schüssel II,Mag. Eduard Mainoni,Eduard Mainoni,Staatssekretär,2004-06-25,2007-01-11,"Bundesministerium für Verkehr, Innovation und Technologie"
-Schüssel II,Dr. Martin Bartenstein,Martin Bartenstein,Bundesminister,2003-02-28,2007-01-11,Bundesministerium für Wirtschaft und Arbeit
-Schüssel II,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Betraut mit der vorläufigen Leitung des Bundesministeriums,2003-02-28,2003-04-30,Bundesministerium für öffentliche Leistung und Sport
-Schüssel II,Mag. Herbert Haupt,Herbert Haupt,Bundesminister,2003-02-28,2003-04-30,Bundesministerium für soziale Sicherheit und Generationen
-Schüssel II,Ursula Haubner,Ursula Haubner,Staatssekretärin,2003-02-28,2003-04-30,Bundesministerium für soziale Sicherheit und Generationen
-Schüssel I,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundeskanzler,2000-02-04,2003-02-28,Bundeskanzleramt
-Schüssel I,Dr. Susanne Riess-Passer,Susanne Riess-Passer,Vizekanzlerin,2000-02-04,2003-02-28,Bundeskanzleramt
-Schüssel I,Franz Morak,Franz Morak,Staatssekretär,2000-02-04,2003-02-28,Bundeskanzleramt
-Schüssel I,Dr. Benita Ferrero-Waldner,Benita Ferrero-Waldner,Bundesministerin,2000-02-04,2003-02-28,Bundesministerium für auswärtige Angelegenheiten
-Schüssel I,Elisabeth Gehrer,Elisabeth Gehrer,Bundesministerin,2000-04-01,2003-02-28,"Bundesministerium für Bildung, Wissenschaft und Kultur"
-Schüssel I,Mag. Karl-Heinz Grasser,Karl-Heinz Grasser,Bundesminister,2000-02-04,2003-02-28,Bundesministerium für Finanzen
-Schüssel I,Dr. Alfred Finz,Alfred Finz,Staatssekretär,2000-02-04,2003-02-28,Bundesministerium für Finanzen
-Schüssel I,Dr. Ernst Strasser,Ernst Strasser,Bundesminister,2000-02-04,2003-02-28,Bundesministerium für Inneres
-Schüssel I,Dr. Dieter Böhmdorfer,Dieter Böhmdorfer,Bundesminister,2000-02-29,2003-02-28,Bundesministerium für Justiz
-Schüssel I,Herbert Scheibner,Herbert Scheibner,Bundesminister,2000-02-04,2003-02-28,Bundesministerium für Landesverteidigung
-Schüssel I,Mag. Wilhelm Molterer,Wilhelm Molterer,Bundesminister,2000-04-01,2003-02-28,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
-Schüssel I,Dr. Susanne Riess-Passer,Susanne Riess-Passer,Bundesministerin,2000-04-03,2003-02-28,Bundesministerium für öffentliche Leistung und Sport
-Schüssel I,Mag. Herbert Haupt,Herbert Haupt,Bundesminister,2000-10-24,2003-02-28,Bundesministerium für soziale Sicherheit und Generationen
-Schüssel I,Dr. Elisabeth Sickl,Elisabeth Sickl,Bundesministerin,2000-04-01,2000-10-24,Bundesministerium für soziale Sicherheit und Generationen
-Schüssel I,Dr. Reinhart Waneck,Reinhart Waneck,Staatssekretär,2000-04-01,2003-02-28,Bundesministerium für soziale Sicherheit und Generationen
-Schüssel I,Ing. Mathias Reichhold,Mathias Reichhold,Bundesminister,2002-02-19,2003-02-28,"Bundesministerium für Verkehr, Innovation und Technologie"
-Schüssel I,Dipl.-Ing. Dr. Monika Forstinger,Monika Forstinger,Bundesministerin,2000-11-14,2002-02-19,"Bundesministerium für Verkehr, Innovation und Technologie"
-Schüssel I,Dipl.-Ing. Michael Schmid,Michael Schmid,Bundesminister,2000-04-01,2000-11-14,"Bundesministerium für Verkehr, Innovation und Technologie"
-Schüssel I,Dr. Martin Bartenstein,Martin Bartenstein,Bundesminister,2000-04-01,2003-02-28,Bundesministerium für Wirtschaft und Arbeit
-Schüssel I,Mares Rossmann,Mares Rossmann,Staatssekretärin,2000-04-01,2003-02-28,Bundesministerium für Wirtschaft und Arbeit
-Schüssel I,Dr. Martin Bartenstein,Martin Bartenstein,Bundesminister,2000-02-04,2000-03-31,Bundesministerium für wirtschaftliche Angelegenheiten
-Schüssel I,Mares Rossmann,Mares Rossmann,Staatssekretärin,2000-02-04,2000-03-31,Bundesministerium für wirtschaftliche Angelegenheiten
-Schüssel I,Dr. Elisabeth Sickl,Elisabeth Sickl,Bundesministerin,2000-02-04,2000-03-31,"Bundesministerium für Arbeit, Gesundheit und Soziales"
-Schüssel I,Dr. Reinhart Waneck,Reinhart Waneck,Staatssekretär,2000-02-04,2000-03-31,"Bundesministerium für Arbeit, Gesundheit und Soziales"
-Schüssel I,Dr. Michael Krüger,Michael Krüger,Bundesminister,2000-02-04,2000-02-29,Bundesministerium für Justiz
-Schüssel I,Mag. Wilhelm Molterer,Wilhelm Molterer,Bundesminister,2000-02-04,2000-03-31,Bundesministerium für Land- und Forstwirtschaft
-Schüssel I,Mag. Wilhelm Molterer,Wilhelm Molterer,Betraut mit der vorläufigen Leitung des Bundesministeriums,2000-02-04,2000-03-31,"Bundesministerium für Umwelt, Jugend und Familie"
-Schüssel I,Elisabeth Gehrer,Elisabeth Gehrer,Bundesministerin,2000-02-04,2000-03-31,Bundesministerium für Unterricht und kulturelle Angelegenheiten
-Schüssel I,Dipl.-Ing. Michael Schmid,Michael Schmid,Bundesminister,2000-02-04,2000-03-31,Bundesministerium für Wissenschaft und Verkehr
-Klima,Mag. Viktor Klima,Viktor Klima,Bundeskanzler,1997-01-28,2000-02-04,Bundeskanzleramt
-Klima,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Vizekanzler,1997-01-28,2000-02-04,Bundeskanzleramt
-Klima,Mag. Barbara Prammer,Barbara Prammer,Bundesministerin für Frauenangelegenheiten und Verbraucherschutz,1997-02-26,2000-02-04,Bundeskanzleramt
-Klima,Mag. Barbara Prammer,Barbara Prammer,Bundesministerin ohne Portefeuille,1997-01-28,1997-02-25,Bundeskanzleramt
-Klima,Dr. Peter Wittmann,Peter Wittmann,Staatssekretär,1997-01-28,2000-02-04,Bundeskanzleramt
-Klima,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für auswärtige Angelegenheiten
-Klima,Dr. Benita Ferrero-Waldner,Benita Ferrero-Waldner,Staatssekretärin,1997-01-28,2000-02-04,Bundesministerium für auswärtige Angelegenheiten
-Klima,Dr. Hannes Farnleitner,Hannes Farnleitner,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für wirtschaftliche Angelegenheiten
-Klima,Eleonora Hostasch,Eleonora Hostasch,Bundesministerin,1997-02-15,2000-02-04,"Bundesministerium für Arbeit, Gesundheit und Soziales"
-Klima,Eleonora Hostasch,Eleonora Hostasch,Bundesministerin,1997-01-28,1997-02-14,Bundesministerium für Arbeit und Soziales
-Klima,Rudolf Edlinger,Rudolf Edlinger,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für Finanzen
-Klima,Dr. Wolfgang Ruttenstorfer,Wolfgang Ruttenstorfer,Staatssekretär,1997-01-28,1999-12-31,Bundesministerium für Finanzen
-Klima,Mag. Karl Schlögl,Karl Schlögl,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für Inneres
-Klima,Dr. Nikolaus Michalek,Nikolaus Michalek,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für Justiz
-Klima,Dr. Werner Fasslabend,Werner Fasslabend,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für Landesverteidigung
-Klima,Mag. Wilhelm Molterer,Wilhelm Molterer,Bundesminister,1997-01-28,2000-02-04,Bundesministerium für Land- und Forstwirtschaft
-Klima,Dr. Martin Bartenstein,Martin Bartenstein,Bundesminister,1997-01-28,2000-02-04,"Bundesministerium für Umwelt, Jugend und Familie"
-Klima,Elisabeth Gehrer,Elisabeth Gehrer,Bundesministerin,1997-01-28,2000-02-04,Bundesministerium für Unterricht und kulturelle Angelegenheiten
-Klima,Dr. Caspar Einem,Caspar Einem,Bundesminister,1997-02-15,2000-02-04,Bundesministerium für Wissenschaft und Verkehr
-Klima,Eleonora Hostasch,Eleonora Hostasch,betraut mit der Leitung des Bundesministeriums,1997-01-28,1997-02-14,Bundesministerium für Gesundheit und Konsumentenschutz
-Klima,Dr. Caspar Einem,Caspar Einem,Bundesminister,1997-01-28,1997-02-14,"Bundesministerium für Wissenschaft, Verkehr und Kunst"
 Vranitzky V,Dipl.-Kfm. Dr. Franz Vranitzky,Franz Vranitzky,Bundeskanzler,1996-03-12,1997-01-28,Bundeskanzleramt
-Vranitzky V,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Vizekanzler,1996-03-12,1997-01-28,Bundeskanzleramt
-Vranitzky V,Dr. Helga Konrad,Helga Konrad,"Betraut mit der Leitung der zum Wirkungskreis des BKA gehörender Angelegenheiten der Frauenpolitik, der Gleichbehandlungskommission sowie in Angelegenheiten der Bundes-Gleichbehandlungskommission und der Interministeriellen Arbeitsgruppe",1996-04-23,1997-01-28,Bundeskanzleramt
-Vranitzky V,Dr. Helga Konrad,Helga Konrad,Bundesministerin ohne Portefeuille,1996-03-12,1996-04-23,Bundeskanzleramt
-Vranitzky V,Mag. Karl Schlögl,Karl Schlögl,Staatssekretär,1996-03-12,1997-01-28,Bundeskanzleramt
-Vranitzky V,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundesminister,1996-03-12,1997-01-28,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky V,Dr. Benita Ferrero-Waldner,Benita Ferrero-Waldner,Staatssekretärin,1996-03-12,1997-01-28,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky V,Dr. Hannes Farnleitner,Hannes Farnleitner,Bundesminister,1996-06-19,1997-01-28,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky V,Dr. Johannes Ditz,Johannes Ditz,Bundesminister,1996-03-12,1996-06-19,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky V,Franz Hums,Franz Hums,Bundesminister,1996-03-12,1997-01-28,Bundesministerium für Arbeit und Soziales
-Vranitzky V,Mag. Viktor Klima,Viktor Klima,Bundesminister,1996-03-12,1997-01-28,Bundesministerium für Finanzen
-Vranitzky V,Dr. Caspar Einem,Caspar Einem,Bundesminister,1996-03-12,1997-01-27,Bundesministerium für Inneres
-Vranitzky V,Dr. Werner Fasslabend,Werner Fasslabend,Bundesminister,1996-03-12,1997-01-28,Bundesministerium für Landesverteidigung
-Vranitzky V,Mag. Wilhelm Molterer,Wilhelm Molterer,Bundesminister,1996-03-12,1997-01-28,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky V,Elisabeth Gehrer,Elisabeth Gehrer,Bundesministerin,1996-03-12,1997-01-28,Bundesministerium für Unterricht und kulturelle Angelegenheiten
-Vranitzky V,Dr. Rudolf Scholten,Rudolf Scholten,Bundesminister,1996-05-01,1997-01-28,"Bundesministerium für Wissenschaft, Verkehr und Kunst"
-Vranitzky V,Dr. Christa Krammer,Christa Krammer,Bundesministerin,1996-03-12,1997-01-27,Bundesministerium für Gesundheit und Konsumentenschutz
-Vranitzky V,Dr. Nikolaus Michalek,Nikolaus Michalek,Bundesminister,1996-03-12,1997-01-27,Bundesministerium für Justiz
-Vranitzky V,Dr. Martin Bartenstein,Martin Bartenstein,Betraut mit der vorläufigen Leitung des Bundesministeriums,1996-03-12,1996-04-30,Bundesministerium für Jugend und Familie
-Vranitzky V,Dr. Martin Bartenstein,Martin Bartenstein,Bundesminister,1996-03-12,1996-04-30,Bundesministerium für Umwelt
-Vranitzky V,Dr. Rudolf Scholten,Rudolf Scholten,Bundesminister,1996-03-12,1996-04-30,"Bundesministerium für Wissenschaft, Forschung und Kunst"
-Vranitzky V,Dr. Rudolf Scholten,Rudolf Scholten,Betraut mit der vorläufigen Leitung des Bundesministeriums,1996-03-12,1996-04-30,Bundesministerium für öffentliche Wirtschaft und Verkehr
 Vranitzky IV,Dipl.-Kfm. Dr. Franz Vranitzky,Franz Vranitzky,Bundeskanzler,1994-11-29,1996-03-12,Bundeskanzleramt
-Vranitzky IV,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Vizekanzler,1995-05-04,1996-03-12,Bundeskanzleramt
-Vranitzky IV,Dr. Erhard Busek,Erhard Busek,Vizekanzler,1994-11-29,1995-05-04,Bundeskanzleramt
-Vranitzky IV,Dr. Helga Konrad,Helga Konrad,Betraut mit der sachlichen Leitung der zum Wirkungsbereich des Bundeskanzleramtes gehörenden Koordination in Angelegenheiten der Frauenpolitik sowie der Angelegenheiten der Gleichbehandlungskommission,1995-04-26,1996-03-12,Bundeskanzleramt
-Vranitzky IV,Johanna Dohnal,Johanna Dohnal,Betraut mit der sachlichen Leitung der zum Wirkungsbereich des Bundeskanzleramtes gehörenden Koordination in Angelegenheiten der Frauenpolitik sowie der Angelegenheiten der Gleichbehandlungskommission,1994-12-22,1995-04-06,Bundeskanzleramt
-Vranitzky IV,Dr. Helga Konrad,Helga Konrad,Bundesministerin ohne Portefeuille,1995-04-06,1996-03-12,Bundeskanzleramt
-Vranitzky IV,Johanna Dohnal,Johanna Dohnal,Bundesministerin ohne Portefeuille,1994-11-29,1995-04-06,Bundeskanzleramt
-Vranitzky IV,Dr. Sonja Moser,Sonja Moser,Bundesministerin ohne Portefeuille,1994-11-29,1995-01-16,Bundeskanzleramt
-Vranitzky IV,Mag. Karl Schlögl,Karl Schlögl,Staatssekretär,1995-04-06,1996-03-12,Bundeskanzleramt
-Vranitzky IV,Mag. Gerhard Schäffer,Gerhard Schäffer,Staatssekretär,1994-11-29,1996-03-12,Bundeskanzleramt
-Vranitzky IV,Mag. Brigitte Ederer,Brigitte Ederer,Staatssekretärin,1994-11-29,1995-10-27,Bundeskanzleramt
-Vranitzky IV,Dr. Caspar Einem,Caspar Einem,Staatssekretär,1994-11-29,1995-04-06,Bundeskanzleramt
-Vranitzky IV,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundesminister,1995-05-04,1996-03-12,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky IV,Dr. Alois Mock,Alois Mock,Bundesminister,1994-11-29,1995-05-04,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky IV,Dr. Benita Ferrero-Waldner,Benita Ferrero-Waldner,Staatssekretärin,1996-01-14,1996-03-12,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky IV,Dr. Benita-Maria Ferrero-Waldner,Benita-Maria Ferrero-Waldner,Staatssekretärin,1995-05-04,1996-01-13,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky IV,Dr. Johannes Ditz,Johannes Ditz,Bundesminister,1995-05-04,1996-03-12,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky IV,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundesminister,1994-11-29,1995-05-04,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky IV,Franz Hums,Franz Hums,Bundesminister,1995-04-06,1996-03-12,Bundesministerium für Arbeit und Soziales
-Vranitzky IV,Josef Hesoun,Josef Hesoun,Bundesminister,1994-11-29,1995-04-06,Bundesministerium für Arbeit und Soziales
-Vranitzky IV,Mag. Viktor Klima,Viktor Klima,Betraut mit der Fortführung der Verwaltung des Bundesministeriums,1996-01-03,1996-03-12,Bundesministerium für Finanzen
-Vranitzky IV,Dr. Andreas Staribacher,Andreas Staribacher,Bundesminister,1995-04-06,1996-01-03,Bundesministerium für Finanzen
-Vranitzky IV,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Bundesminister,1994-11-29,1995-04-06,Bundesministerium für Finanzen
-Vranitzky IV,Dr. Johannes Ditz,Johannes Ditz,Staatssekretär,1994-11-29,1995-05-04,Bundesministerium für Finanzen
-Vranitzky IV,Dr. Christa Krammer,Christa Krammer,Bundesministerin,1995-01-01,1996-03-12,Bundesministerium für Gesundheit und Konsumentenschutz
-Vranitzky IV,Dr. Caspar Einem,Caspar Einem,Bundesminister,1995-04-06,1996-03-12,Bundesministerium für Inneres
-Vranitzky IV,Dr. Franz Löschnak,Franz Löschnak,Bundesminister,1994-11-29,1995-04-06,Bundesministerium für Inneres
-Vranitzky IV,Dr. Sonja Moser,Sonja Moser,Bundesministerin,1995-01-16,1996-03-12,Bundesministerium für Jugend und Familie
-Vranitzky IV,Mag. Viktor Klima,Viktor Klima,Bundesminister,1994-11-29,1996-03-12,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Vranitzky IV,Dr. Martin Bartenstein,Martin Bartenstein,Staatssekretär,1994-11-29,1995-05-04,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Vranitzky IV,Dr. Christa Krammer,Christa Krammer,Bundesministerin,1994-11-29,1994-12-31,"Bundesministerium für Gesundheit, Sport und Konsumentenschutz"
-Vranitzky IV,Dr. Nikolaus Michalek,Nikolaus Michalek,Bundesminister,1994-11-29,1996-03-11,Bundesministerium für Justiz
-Vranitzky IV,Dr. Werner Fasslabend,Werner Fasslabend,Bundesminister,1994-11-29,1996-03-11,Bundesministerium für Landesverteidigung
-Vranitzky IV,Mag. Wilhelm Molterer,Wilhelm Molterer,Bundesminister,1994-11-29,1996-03-11,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky IV,Maria Rauch-Kallat,Maria Rauch-Kallat,Bundesministerin,1994-11-29,1994-12-31,"Bundesministerium für Umwelt, Jugend und Familie"
-Vranitzky IV,Dr. Erhard Busek,Erhard Busek,Betraut mit der Leitung des Bundesministeriums,1994-11-29,1994-12-31,Bundesministerium für Unterricht und Kunst
-Vranitzky IV,Dr. Rudolf Scholten,Rudolf Scholten,Bundesminister,1994-11-29,1994-12-31,Bundesministerium für Wissenschaft und Forschung
 Vranitzky III,Dipl.-Kfm. Dr. Franz Vranitzky,Franz Vranitzky,Bundeskanzler,1990-12-17,1994-11-29,Bundeskanzleramt
-Vranitzky III,Dr. Erhard Busek,Erhard Busek,Vizekanzler,1991-07-02,1994-11-29,Bundeskanzleramt
-Vranitzky III,Dipl.-Ing. Josef Riegler,Josef Riegler,Vizekanzler,1990-12-17,1991-07-02,Bundeskanzleramt
-Vranitzky III,Johanna Dohnal,Johanna Dohnal,Betraut mit der Leitung der zum Wirkungsbereich des Bundeskanzleramtes gehörenden Koordination in Angelegenheiten der Frauenpolitik sowie der Angelegenheiten der Gleichbehandlungskommission,1991-01-29,1994-11-29,Bundeskanzleramt
-Vranitzky III,Johanna Dohnal,Johanna Dohnal,Betraut mit der Leitung der zum Wirkungsbereich des Bundeskanzleramtes gehörenden Koordination in Angelegenheiten der Frauenpolitik,1991-01-02,1991-01-28,Bundeskanzleramt
-Vranitzky III,Jürgen Weiss,Jürgen Weiss,Bundesminister für Föderalismus und Verwaltungsreform,1991-10-22,1994-11-29,Bundeskanzleramt
-Vranitzky III,Dipl.-Ing. Josef Riegler,Josef Riegler,Bundesminister für Föderalismus und Verwaltungsreform,1990-12-17,1991-10-22,Bundeskanzleramt
-Vranitzky III,Johanna Dohnal,Johanna Dohnal,Bundesministerin ohne Portefeuille,1990-12-17,1994-11-29,Bundeskanzleramt
-Vranitzky III,Harald Ettl,Harald Ettl,Bundesminister,1990-12-17,1991-02-01,Bundeskanzleramt
-Vranitzky III,Mag. Brigitte Ederer,Brigitte Ederer,Staatssekretärin,1992-04-03,1994-11-29,Bundeskanzleramt
-Vranitzky III,Dr. Peter Kostelka,Peter Kostelka,Staatssekretär,1990-12-17,1994-11-29,Bundeskanzleramt
-Vranitzky III,Dr. Peter Jankowitsch,Peter Jankowitsch,Staatssekretär,1990-12-17,1992-04-03,Bundeskanzleramt
-Vranitzky III,Dr. Alois Mock,Alois Mock,Bundesminister,1990-12-17,1994-11-29,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky III,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundesminister,1990-12-17,1994-11-29,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky III,Mag. Dr. Maria Theresia Fekter,Maria Theresia Fekter,Staatssekretärin,1990-12-17,1994-11-29,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky III,Josef Hesoun,Josef Hesoun,Bundesminister,1990-12-17,1994-11-29,Bundesministerium für Arbeit und Soziales
-Vranitzky III,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Bundesminister,1990-12-17,1994-11-29,Bundesministerium für Finanzen
-Vranitzky III,Dr. Johannes Ditz,Johannes Ditz,Staatssekretär,1991-10-22,1994-11-29,Bundesministerium für Finanzen
-Vranitzky III,Dipl.-Kfm. Dr. Günter Stummvoll,Günter Stummvoll,Staatssekretär,1990-12-17,1991-10-22,Bundesministerium für Finanzen
-Vranitzky III,Dr. Christa Krammer,Christa Krammer,Bundesministerin,1994-03-17,1994-11-29,"Bundesministerium für Gesundheit, Sport und Konsumentenschutz"
-Vranitzky III,Dr. Michael Ausserwinkler,Michael Ausserwinkler,Bundesminister,1992-04-03,1994-03-17,"Bundesministerium für Gesundheit, Sport und Konsumentenschutz"
-Vranitzky III,Harald Ettl,Harald Ettl,Bundesminister,1991-02-01,1992-04-03,"Bundesministerium für Gesundheit, Sport und Konsumentenschutz"
-Vranitzky III,Dr. Franz Löschnak,Franz Löschnak,Bundesminister,1990-12-17,1994-11-29,Bundesministerium für Inneres
-Vranitzky III,Dr. Nikolaus Michalek,Nikolaus Michalek,Bundesminister,1990-12-17,1994-11-28,Bundesministerium für Justiz
-Vranitzky III,Dr. Werner Fasslabend,Werner Fasslabend,Bundesminister,1990-12-17,1994-11-28,Bundesministerium für Landesverteidigung
-Vranitzky III,Jürgen Weiss,Jürgen Weiss,Betraut mit der Fortführung der Verwaltung des Bundesministeriums,1994-11-17,1994-11-28,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky III,Dipl.-Ing. Dr. Franz Fischler,Franz Fischler,Bundesminister,1990-12-17,1994-11-17,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky III,Maria Rauch-Kallat,Maria Rauch-Kallat,Bundesministerin,1992-11-25,1994-11-28,"Bundesministerium für Umwelt, Jugend und Familie"
-Vranitzky III,Dipl.-Kfm. Ruth Feldgrill-Zankel,Ruth Feldgrill-Zankel,Bundesministerin,1991-03-05,1992-11-25,"Bundesministerium für Umwelt, Jugend und Familie"
-Vranitzky III,Dr. Marilies Flemming,Marilies Flemming,Bundesministerin,1990-12-17,1991-03-05,"Bundesministerium für Umwelt, Jugend und Familie"
-Vranitzky III,Dr. Rudolf Scholten,Rudolf Scholten,Bundesminister,1990-12-17,1991-01-31,"Bundesministerium für Unterricht, Kunst und Sport"
-Vranitzky III,Mag. Viktor Klima,Viktor Klima,Bundesminister,1992-04-03,1994-11-28,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Vranitzky III,Dipl.-Ing. Dr. Rudolf Streicher,Rudolf Streicher,Bundesminister,1990-12-17,1992-04-03,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Vranitzky III,Dr. Erhard Busek,Erhard Busek,Betraut mit der Leitung des Bundesministeriums,1991-07-02,1994-11-28,Bundesministerium für Wissenschaft und Forschung
-Vranitzky III,Dr. Erhard Busek,Erhard Busek,Bundesminister,1990-12-17,1991-07-02,Bundesministerium für Wissenschaft und Forschung
 Vranitzky II,Dipl.-Kfm. Dr. Franz Vranitzky,Franz Vranitzky,Bundeskanzler,1987-01-21,1990-12-17,Bundeskanzleramt
-Vranitzky II,Dipl.-Ing. Josef Riegler,Josef Riegler,Vizekanzler,1989-04-24,1990-12-17,Bundeskanzleramt
-Vranitzky II,Dr. Alois Mock,Alois Mock,Vizekanzler,1987-01-21,1989-04-24,Bundeskanzleramt
-Vranitzky II,Dipl.-Ing. Josef Riegler,Josef Riegler,Bundesminister für Föderalismus und Verwaltungsreform,1989-04-24,1990-12-17,Bundeskanzleramt
-Vranitzky II,Dr. Heinrich Neisser,Heinrich Neisser,Bundesminister für Föderalismus und Verwaltungsreform,1987-04-01,1989-04-24,Bundeskanzleramt
-Vranitzky II,Harald Ettl,Harald Ettl,Bundesminister für Gesundheit und öffentlichen Dienst,1989-02-02,1990-12-17,Bundeskanzleramt
-Vranitzky II,Dr. Franz Löschnak,Franz Löschnak,Bundesminister für Gesundheit und öffentlichen Dienst,1987-04-01,1989-02-02,Bundeskanzleramt
-Vranitzky II,Dr. Franz Löschnak,Franz Löschnak,Bundesminister,1987-01-21,1987-03-31,Bundeskanzleramt
-Vranitzky II,Dr. Heinrich Neisser,Heinrich Neisser,Bundesminister,1987-01-21,1987-03-31,Bundeskanzleramt
-Vranitzky II,Johanna Dohnal,Johanna Dohnal,Staatssekretärin,1987-01-21,1990-12-17,Bundeskanzleramt
-Vranitzky II,Dr. Alois Mock,Alois Mock,Bundesminister,1989-04-24,1990-12-17,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky II,Dr. Alois Mock,Alois Mock,Betraut mit der Leitung des Bundesministeriums,1987-04-01,1989-04-24,Bundesministerium für auswärtige Angelegenheiten
-Vranitzky II,Dr. Wolfgang Schüssel,Wolfgang Schüssel,Bundesminister,1989-04-24,1990-12-17,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky II,Robert Graf,Robert Graf,Bundesminister,1987-04-01,1989-04-24,Bundesministerium für wirtschaftliche Angelegenheiten
-Vranitzky II,Dr. Walter Geppert,Walter Geppert,Bundesminister,1989-03-10,1990-12-17,Bundesministerium für Arbeit und Soziales
-Vranitzky II,Alfred Dallinger,Alfred Dallinger,Bundesminister,1987-04-01,1989-02-23,Bundesministerium für Arbeit und Soziales
-Vranitzky II,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Bundesminister,1987-01-21,1990-12-17,Bundesministerium für Finanzen
-Vranitzky II,Dipl.-Kfm. Dr. Günter Stummvoll,Günter Stummvoll,Staatssekretär,1988-03-07,1990-12-17,Bundesministerium für Finanzen
-Vranitzky II,Dr. Johannes Ditz,Johannes Ditz,Staatssekretär,1987-01-21,1988-03-07,Bundesministerium für Finanzen
-Vranitzky II,Dr. Alois Mock,Alois Mock,Betraut mit der Leitung des Bundesministeriums,1987-01-21,1987-03-31,Bundesministerium für Auswärtige Angelegenheiten
-Vranitzky II,Robert Graf,Robert Graf,Betraut mit der Leitung des Bundesministeriums,1987-01-21,1987-03-31,Bundesministerium für Bauten und Technik
-Vranitzky II,Dr. Marilies Flemming,Marilies Flemming,Bundesministerin,1987-01-21,1987-03-31,"Bundesministerium für Familie, Jugend und Konsumentenschutz"
-Vranitzky II,Alfred Dallinger,Alfred Dallinger,Bundesminister,1987-01-21,1987-03-31,Bundesministerium für soziale Verwaltung
-Vranitzky II,Dr. Marilies Flemming,Marilies Flemming,Betraut mit der vorläufigen Leitung des Bundesministeriums,1987-01-21,1987-03-31,Bundesministerium für Gesundheit und Umweltschutz
-Vranitzky II,Robert Graf,Robert Graf,Bundesminister,1987-01-21,1987-03-31,"Bundesministerium für Handel, Gewerbe und Industrie"
-Vranitzky II,Karl Blecha,Karl Blecha,Bundesminister,1987-01-21,1987-03-31,Bundesministerium für Inneres
-Vranitzky II,Dr. Egmont Foregger,Egmont Foregger,Bundesminister,1987-01-21,1987-03-31,Bundesministerium für Justiz
-Vranitzky II,Dr. Robert Lichal,Robert Lichal,Bundesminister,1987-01-21,1987-03-31,Bundesministerium für Landesverteidigung
-Vranitzky II,Dipl.-Ing. Josef Riegler,Josef Riegler,Bundesminister,1987-01-21,1987-03-31,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky II,Dipl.-Ing. Dr. Rudolf Streicher,Rudolf Streicher,Bundesminister,1987-01-21,1990-12-16,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Vranitzky II,Dr. Hilde Hawlicek,Hilde Hawlicek,Bundesministerin,1987-01-21,1987-03-31,"Bundesministerium für Unterricht, Kunst und Sport"
-Vranitzky II,Dr. Hans Tuppy,Hans Tuppy,Bundesminister,1987-01-21,1987-03-31,Bundesministerium für Wissenschaft und Forschung
 Vranitzky I,Dipl.-Kfm. Dr. Franz Vranitzky,Franz Vranitzky,Bundeskanzler,1986-06-16,1987-01-21,Bundeskanzleramt
-Vranitzky I,Dr. Norbert Steger,Norbert Steger,Vizekanzler,1986-06-16,1987-01-21,Bundeskanzleramt
-Vranitzky I,Dr. Franz Löschnak,Franz Löschnak,Bundesminister,1986-06-16,1987-01-21,Bundeskanzleramt
-Vranitzky I,Johanna Dohnal,Johanna Dohnal,Staatssekretärin,1986-06-16,1987-01-21,Bundeskanzleramt
-Vranitzky I,Dr. Peter Jankowitsch,Peter Jankowitsch,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Auswärtige Angelegenheiten
-Vranitzky I,Dr. Heinrich Übleis,Heinrich Übleis,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Bauten und Technik
-Vranitzky I,Dr. Beatrix Eypeltauer,Beatrix Eypeltauer,Staatssekretärin,1986-06-16,1987-01-21,Bundesministerium für Bauten und Technik
-Vranitzky I,Gertrude Fröhlich-Sandner,Gertrude Fröhlich-Sandner,Bundesministerin,1986-06-16,1987-01-21,"Bundesministerium für Familie, Jugend und Konsumentenschutz"
-Vranitzky I,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Finanzen
-Vranitzky I,Dipl.-Kfm. Holger Bauer,Holger Bauer,Staatssekretär,1986-06-16,1987-01-21,Bundesministerium für Finanzen
-Vranitzky I,Franz Kreuzer,Franz Kreuzer,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Gesundheit und Umweltschutz
-Vranitzky I,Dr. Mario Ferrari-Brunnenfeld,Mario Ferrari-Brunnenfeld,Staatssekretär,1986-06-16,1987-01-21,Bundesministerium für Gesundheit und Umweltschutz
-Vranitzky I,Dr. Norbert Steger,Norbert Steger,Betraut mit der Leitung des Bundesministeriums,1986-06-16,1987-01-21,"Bundesministerium für Handel, Gewerbe und Industrie"
-Vranitzky I,Dipl.-Kfm. Dr. Johann Bauer,Johann Bauer,Staatssekretär,1986-06-16,1987-01-21,"Bundesministerium für Handel, Gewerbe und Industrie"
-Vranitzky I,Karl Blecha,Karl Blecha,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Inneres
-Vranitzky I,Dr. Harald Ofner,Harald Ofner,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Justiz
-Vranitzky I,Dipl.-Ing. Dr. Helmut Krünes,Helmut Krünes,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Landesverteidigung
-Vranitzky I,Dr. Erich Schmidt,Erich Schmidt,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky I,Ing. Gerulf Murer,Gerulf Murer,Staatssekretär,1986-06-16,1987-01-21,Bundesministerium für Land- und Forstwirtschaft
-Vranitzky I,Dr. Herbert Moritz,Herbert Moritz,Bundesminister,1986-06-16,1987-01-21,"Bundesministerium für Unterricht, Kunst und Sport"
-Vranitzky I,Dr. Heinz Fischer,Heinz Fischer,Bundesminister,1986-06-16,1987-01-21,Bundesministerium für Wissenschaft und Forschung
-Vranitzky I,Alfred Dallinger,Alfred Dallinger,Bundesminister,1986-06-16,1987-01-20,Bundesministerium für soziale Verwaltung
-Vranitzky I,Dipl.-Ing. Dr. Rudolf Streicher,Rudolf Streicher,Bundesminister,1986-06-16,1987-01-20,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Sinowatz,Dr. Fred Sinowatz,Fred Sinowatz,Bundeskanzler,1983-05-24,1986-06-16,Bundeskanzleramt
-Sinowatz,Dr. Norbert Steger,Norbert Steger,Vizekanzler,1983-05-24,1986-06-16,Bundeskanzleramt
-Sinowatz,Dr. Franz Löschnak,Franz Löschnak,Bundesminister,1985-12-17,1986-06-16,Bundeskanzleramt
-Sinowatz,Elfriede Karl,Elfriede Karl,Bundesministerin ohne Portefeuille,1983-05-24,1984-01-01,Bundeskanzleramt
-Sinowatz,Johanna Dohnal,Johanna Dohnal,Staatssekretärin,1983-05-24,1986-06-16,Bundeskanzleramt
-Sinowatz,Dr. Franz Löschnak,Franz Löschnak,Staatssekretär,1983-05-24,1985-12-17,Bundeskanzleramt
-Sinowatz,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Staatssekretär,1983-05-24,1984-09-10,Bundeskanzleramt
-Sinowatz,Mag. Leopold Gratz,Leopold Gratz,Bundesminister,1984-09-10,1986-06-16,Bundesministerium für Auswärtige Angelegenheiten
-Sinowatz,Erwin Lanc,Erwin Lanc,Bundesminister,1983-05-24,1984-09-10,Bundesministerium für Auswärtige Angelegenheiten
-Sinowatz,Dr. Heinrich Übleis,Heinrich Übleis,Bundesminister,1985-03-01,1986-06-16,Bundesministerium für Bauten und Technik
-Sinowatz,Karl Sekanina,Karl Sekanina,Bundesminister,1983-05-24,1985-02-22,Bundesministerium für Bauten und Technik
-Sinowatz,Dr. Beatrix Eypeltauer,Beatrix Eypeltauer,Staatssekretärin,1983-05-24,1986-06-16,Bundesministerium für Bauten und Technik
-Sinowatz,Gertrude Fröhlich-Sandner,Gertrude Fröhlich-Sandner,Bundesministerin,1984-09-10,1986-06-16,"Bundesministerium für Familie, Jugend und Konsumentenschutz"
-Sinowatz,Elfriede Karl,Elfriede Karl,Bundesministerin,1984-01-01,1984-09-10,"Bundesministerium für Familie, Jugend und Konsumentenschutz"
 Sinowatz,Dipl.-Kfm. Dr. Franz Vranitzky,Franz Vranitzky,Bundesminister,1984-09-10,1986-06-16,Bundesministerium für Finanzen
-Sinowatz,Dr. Herbert Salcher,Herbert Salcher,Bundesminister,1983-05-24,1984-09-10,Bundesministerium für Finanzen
-Sinowatz,Dipl.-Kfm. Holger Bauer,Holger Bauer,Staatssekretär,1983-05-24,1986-06-16,Bundesministerium für Finanzen
-Sinowatz,Franz Kreuzer,Franz Kreuzer,Bundesminister,1985-12-17,1986-06-16,Bundesministerium für Gesundheit und Umweltschutz
-Sinowatz,Dr. Kurt Steyrer,Kurt Steyrer,Bundesminister,1983-05-24,1985-12-17,Bundesministerium für Gesundheit und Umweltschutz
-Sinowatz,Dr. Mario Ferrari-Brunnenfeld,Mario Ferrari-Brunnenfeld,Staatssekretär,1983-05-24,1986-06-16,Bundesministerium für Gesundheit und Umweltschutz
-Sinowatz,Dr. Norbert Steger,Norbert Steger,Betraut mit der Leitung des Bundesministeriums,1983-05-24,1986-06-16,"Bundesministerium für Handel, Gewerbe und Industrie"
-Sinowatz,Dr. Erich Schmidt,Erich Schmidt,Staatssekretär,1983-05-24,1986-06-16,"Bundesministerium für Handel, Gewerbe und Industrie"
-Sinowatz,Karl Blecha,Karl Blecha,Bundesminister,1983-05-24,1986-06-16,Bundesministerium für Inneres
-Sinowatz,Dr. Harald Ofner,Harald Ofner,Bundesminister,1983-05-24,1986-06-16,Bundesministerium für Justiz
-Sinowatz,Dipl.-Ing. Dr. Helmut Krünes,Helmut Krünes,Bundesminister,1986-05-15,1986-06-16,Bundesministerium für Landesverteidigung
-Sinowatz,Dr. Friedhelm Frischenschlager,Friedhelm Frischenschlager,Bundesminister,1983-05-24,1986-05-12,Bundesministerium für Landesverteidigung
-Sinowatz,Dipl.-Ing. Günter Haiden,Günter Haiden,Bundesminister,1983-05-24,1986-06-16,Bundesministerium für Land- und Forstwirtschaft
-Sinowatz,Ing. Gerulf Murer,Gerulf Murer,Staatssekretär,1983-05-24,1986-06-16,Bundesministerium für Land- und Forstwirtschaft
-Sinowatz,Alfred Dallinger,Alfred Dallinger,Bundesminister,1983-05-24,1986-06-16,Bundesministerium für soziale Verwaltung
-Sinowatz,Dr. Herbert Moritz,Herbert Moritz,Bundesminister,1984-11-08,1986-06-16,"Bundesministerium für Unterricht, Kunst und Sport"
-Sinowatz,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Bundesminister,1984-11-08,1986-06-16,Bundesministerium für öffentliche Wirtschaft und Verkehr
-Sinowatz,Dr. Heinz Fischer,Heinz Fischer,Bundesminister,1983-05-24,1986-06-16,Bundesministerium für Wissenschaft und Forschung
-Sinowatz,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Bundesminister,1984-09-10,1984-11-07,Bundesministerium für Verkehr
-Sinowatz,Karl Lausecker,Karl Lausecker,Bundesminister,1983-05-24,1984-09-10,Bundesministerium für Verkehr
-Sinowatz,Dr. Herbert Moritz,Herbert Moritz,Bundesminister,1984-09-10,1984-11-08,Bundesministerium für Unterricht und Kunst
-Sinowatz,Dr. Helmut Zilk,Helmut Zilk,Bundesminister,1983-05-24,1984-09-10,Bundesministerium für Unterricht und Kunst
-Kreisky IV,Dr. Bruno Kreisky,Bruno Kreisky,Bundeskanzler,1979-06-05,1983-05-24,Bundeskanzleramt
-Kreisky IV,Dr. Fred Sinowatz,Fred Sinowatz,Vizekanzler,1981-01-20,1983-05-24,Bundeskanzleramt
-Kreisky IV,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Vizekanzler,1979-06-05,1981-01-20,Bundeskanzleramt
-Kreisky IV,Johanna Dohnal,Johanna Dohnal,Staatssekretärin,1979-11-05,1983-05-24,Bundeskanzleramt
-Kreisky IV,Dr. Franz Löschnak,Franz Löschnak,Staatssekretär,1979-06-05,1983-05-24,Bundeskanzleramt
-Kreisky IV,Dipl.-Kfm. Ferdinand Lacina,Ferdinand Lacina,Staatssekretär,1982-11-01,1983-05-24,Bundeskanzleramt
-Kreisky IV,DDr. Adolf Nussbaumer,Adolf Nussbaumer,Staatssekretär,1979-06-05,1982-10-18,Bundeskanzleramt
-Kreisky IV,Elfriede Karl,Elfriede Karl,Staatssekretärin,1979-06-05,1979-11-05,Bundeskanzleramt
-Kreisky IV,Dr. Willibald Pahr,Willibald Pahr,Bundesminister,1979-06-05,1983-05-24,Bundesministerium für Auswärtige Angelegenheiten
-Kreisky IV,Karl Sekanina,Karl Sekanina,Bundesminister,1979-11-05,1983-05-24,Bundesministerium für Bauten und Technik
-Kreisky IV,Josef Moser,Josef Moser,Bundesminister,1979-06-05,1979-10-08,Bundesministerium für Bauten und Technik
-Kreisky IV,Dr. Beatrix Eypeltauer,Beatrix Eypeltauer,Staatssekretärin,1979-11-05,1983-05-24,Bundesministerium für Bauten und Technik
-Kreisky IV,Dr. Herbert Salcher,Herbert Salcher,Bundesminister,1981-01-20,1983-05-24,Bundesministerium für Finanzen
-Kreisky IV,Elfriede Karl,Elfriede Karl,Staatssekretärin,1979-11-05,1983-05-24,Bundesministerium für Finanzen
-Kreisky IV,Dipl.-Kfm. Hans Seidel,Hans Seidel,Staatssekretär,1981-01-20,1983-05-24,Bundesministerium für Finanzen
-Kreisky IV,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Betraut mit der Leitung des Bundesministeriums,1979-06-05,1981-01-20,Bundesministerium für Finanzen
-Kreisky IV,Dr. Kurt Steyrer,Kurt Steyrer,Bundesminister,1981-01-20,1983-05-23,Bundesministerium für Gesundheit und Umweltschutz
-Kreisky IV,Dr. Herbert Salcher,Herbert Salcher,Bundesminister,1979-11-05,1981-01-20,Bundesministerium für Gesundheit und Umweltschutz
-Kreisky IV,Dr. Dr. h.c. Hertha Firnberg,Hertha Firnberg,Betraut mit der Leitung des Bundesministeriums,1979-10-08,1979-11-05,Bundesministerium für Gesundheit und Umweltschutz
-Kreisky IV,Dr. Ingrid Leodolter,Ingrid Leodolter,Bundesministerin,1979-06-05,1979-10-08,Bundesministerium für Gesundheit und Umweltschutz
-Kreisky IV,Dipl.-Vw. Dr. Josef Staribacher,Josef Staribacher,Bundesminister,1979-06-05,1983-05-23,"Bundesministerium für Handel, Gewerbe und Industrie"
-Kreisky IV,Anneliese Albrecht,Anneliese Albrecht,Staatssekretärin,1979-11-05,1983-05-23,"Bundesministerium für Handel, Gewerbe und Industrie"
-Kreisky IV,Erwin Lanc,Erwin Lanc,Bundesminister,1979-06-05,1983-05-23,Bundesministerium für Inneres
-Kreisky IV,Dr. Christian Broda,Christian Broda,Bundesminister,1979-06-05,1983-05-23,Bundesministerium für Justiz
-Kreisky IV,Otto Rösch,Otto Rösch,Bundesminister,1979-06-05,1983-05-23,Bundesministerium für Landesverteidigung
-Kreisky IV,Dipl.-Ing. Günter Haiden,Günter Haiden,Bundesminister,1979-06-05,1983-05-23,Bundesministerium für Land- und Forstwirtschaft
-Kreisky IV,Albin Schober,Albin Schober,Staatssekretär,1979-06-05,1983-05-23,Bundesministerium für Land- und Forstwirtschaft
-Kreisky IV,Alfred Dallinger,Alfred Dallinger,Bundesminister,1980-10-09,1983-05-23,Bundesministerium für soziale Verwaltung
-Kreisky IV,Dr. Gerhard Weissenberg,Gerhard Weissenberg,Bundesminister,1979-06-05,1980-10-01,Bundesministerium für soziale Verwaltung
-Kreisky IV,Franziska Fast,Franziska Fast,Staatssekretärin,1979-11-05,1983-05-23,Bundesministerium für soziale Verwaltung
-Kreisky IV,Dr. Fred Sinowatz,Fred Sinowatz,Betraut mit der Leitung des Bundesministeriums,1981-01-20,1983-05-23,Bundesministerium für Unterricht und Kunst
-Kreisky IV,Dr. Fred Sinowatz,Fred Sinowatz,Bundesminister,1979-06-05,1981-01-20,Bundesministerium für Unterricht und Kunst
-Kreisky IV,Karl Lausecker,Karl Lausecker,Bundesminister,1979-06-05,1983-05-23,Bundesministerium für Verkehr
-Kreisky IV,Dr. Dr. h.c. Hertha Firnberg,Hertha Firnberg,Bundesministerin,1979-06-05,1983-05-23,Bundesministerium für Wissenschaft und Forschung
-Kreisky III,Dr. Bruno Kreisky,Bruno Kreisky,Bundeskanzler,1975-10-28,1979-06-05,Bundeskanzleramt
-Kreisky III,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Vizekanzler,1976-10-01,1979-06-05,Bundeskanzleramt
-Kreisky III,Ing. Rudolf Häuser,Rudolf Häuser,Vizekanzler,1975-10-28,1976-09-30,Bundeskanzleramt
-Kreisky III,Dr. Franz Löschnak,Franz Löschnak,Staatssekretär,1977-06-08,1979-06-05,Bundeskanzleramt
-Kreisky III,Elfriede Karl,Elfriede Karl,Staatssekretärin,1975-10-28,1979-06-05,Bundeskanzleramt
-Kreisky III,DDr. Adolf Nussbaumer,Adolf Nussbaumer,Staatssekretär,1977-10-05,1979-06-05,Bundeskanzleramt
-Kreisky III,Dr. Ernst Eugen Veselsky,Ernst Eugen Veselsky,Staatssekretär,1975-10-28,1977-10-05,Bundeskanzleramt
-Kreisky III,Karl Lausecker,Karl Lausecker,Staatssekretär,1975-10-28,1977-06-08,Bundeskanzleramt
-Kreisky III,Dr. Willibald Pahr,Willibald Pahr,Bundesminister,1976-10-01,1979-06-05,Bundesministerium für Auswärtige Angelegenheiten
-Kreisky III,Dr. Erich Bielka,Erich Bielka,Bundesminister,1975-10-28,1976-09-30,Bundesministerium für Auswärtige Angelegenheiten
-Kreisky III,Josef Moser,Josef Moser,Bundesminister,1975-10-28,1979-06-05,Bundesministerium für Bauten und Technik
-Kreisky III,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Betraut mit der Leitung des Bundesministeriums,1976-10-01,1979-06-05,Bundesministerium für Finanzen
-Kreisky III,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Bundesminister,1975-10-28,1976-09-30,Bundesministerium für Finanzen
-Kreisky III,Dr. Ingrid Leodolter,Ingrid Leodolter,Bundesministerin,1975-10-28,1979-06-05,Bundesministerium für Gesundheit und Umweltschutz
-Kreisky III,Dipl.-Vw. Dr. Josef Staribacher,Josef Staribacher,Bundesminister,1975-10-28,1979-06-05,"Bundesministerium für Handel, Gewerbe und Industrie"
-Kreisky III,Erwin Lanc,Erwin Lanc,Bundesminister,1977-06-08,1979-06-05,Bundesministerium für Inneres
-Kreisky III,Otto Rösch,Otto Rösch,Bundesminister,1975-10-28,1977-06-08,Bundesministerium für Inneres
-Kreisky III,Dr. Christian Broda,Christian Broda,Bundesminister,1975-10-28,1979-06-05,Bundesministerium für Justiz
-Kreisky III,Otto Rösch,Otto Rösch,Bundesminister,1977-06-08,1979-06-05,Bundesministerium für Landesverteidigung
-Kreisky III,Karl Lütgendorf,Karl Lütgendorf,Bundesminister,1975-10-28,1977-05-31,Bundesministerium für Landesverteidigung
-Kreisky III,Dipl.-Ing. Günter Haiden,Günter Haiden,Bundesminister,1976-10-01,1979-06-05,Bundesministerium für Land- und Forstwirtschaft
-Kreisky III,Dipl.-Ing. Dr. Oskar Weihs,Oskar Weihs,Bundesminister,1975-10-28,1976-09-30,Bundesministerium für Land- und Forstwirtschaft
-Kreisky III,Albin Schober,Albin Schober,Staatssekretär,1976-10-01,1979-06-05,Bundesministerium für Land- und Forstwirtschaft
-Kreisky III,Dipl.-Ing. Günter Haiden,Günter Haiden,Staatssekretär,1975-10-28,1976-09-30,Bundesministerium für Land- und Forstwirtschaft
-Kreisky III,Dr. Gerhard Weissenberg,Gerhard Weissenberg,Bundesminister,1976-10-01,1979-06-05,Bundesministerium für soziale Verwaltung
-Kreisky III,Dr. Ingrid Leodolter,Ingrid Leodolter,Bundesministerin (gemäß Artikel 77 Absatz 4 B-VG mit der Leitung des Bundesministeriniums betraut),1976-10-01,1976-10-01,Bundesministerium für soziale Verwaltung
-Kreisky III,Ing. Rudolf Häuser,Rudolf Häuser,Betraut mit der Leitung des Bundesministeriums,1975-10-28,1976-09-30,Bundesministerium für soziale Verwaltung
-Kreisky III,Dr. Fred Sinowatz,Fred Sinowatz,Bundesminister,1975-10-28,1979-06-05,Bundesministerium für Unterricht und Kunst
-Kreisky III,Karl Lausecker,Karl Lausecker,Bundesminister,1977-06-08,1979-06-05,Bundesministerium für Verkehr
-Kreisky III,Erwin Lanc,Erwin Lanc,Bundesminister,1975-10-28,1977-06-08,Bundesministerium für Verkehr
-Kreisky III,Dr. Dr. h.c. Hertha Firnberg,Hertha Firnberg,Bundesministerin,1975-10-28,1979-06-05,Bundesministerium für Wissenschaft und Forschung
-Kreisky II,Dr. Bruno Kreisky,Bruno Kreisky,Bundeskanzler,1971-11-04,1975-10-28,Bundeskanzleramt
-Kreisky II,Ing. Rudolf Häuser,Rudolf Häuser,Vizekanzler,1971-11-04,1975-10-28,Bundeskanzleramt
-Kreisky II,Dr. Ingrid Leodolter,Ingrid Leodolter,Bundesministerin ohne Portefeuille,1971-11-04,1972-02-02,Bundeskanzleramt
-Kreisky II,Elfriede Karl,Elfriede Karl,Staatssekretärin,1971-11-04,1975-10-28,Bundeskanzleramt
-Kreisky II,Dr. Ernst Eugen Veselsky,Ernst Eugen Veselsky,Staatssekretär,1971-11-04,1975-10-28,Bundeskanzleramt
-Kreisky II,Karl Lausecker,Karl Lausecker,Staatssekretär,1973-01-18,1975-10-28,Bundeskanzleramt
-Kreisky II,Dr. Erich Bielka,Erich Bielka,Bundesminister,1974-07-08,1975-10-28,Bundesministerium für Auswärtige Angelegenheiten
-Kreisky II,Dr. Rudolf Kirchschläger,Rudolf Kirchschläger,Bundesminister,1971-11-04,1974-07-08,Bundesministerium für Auswärtige Angelegenheiten
-Kreisky II,Josef Moser,Josef Moser,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Bauten und Technik
-Kreisky II,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Finanzen
-Kreisky II,Dipl.-Vw. Dr. Josef Staribacher,Josef Staribacher,Bundesminister,1971-11-04,1975-10-28,"Bundesministerium für Handel, Gewerbe und Industrie"
-Kreisky II,Otto Rösch,Otto Rösch,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Inneres
-Kreisky II,Dr. Christian Broda,Christian Broda,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Justiz
-Kreisky II,Karl Lütgendorf,Karl Lütgendorf,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Landesverteidigung
-Kreisky II,Dipl.-Ing. Dr. Oskar Weihs,Oskar Weihs,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Land- und Forstwirtschaft
-Kreisky II,Dipl.-Ing. Günter Haiden,Günter Haiden,Staatssekretär,1974-07-08,1975-10-28,Bundesministerium für Land- und Forstwirtschaft
-Kreisky II,Ing. Rudolf Häuser,Rudolf Häuser,Betraut mit der Leitung des Bundesministeriums,1971-11-04,1975-10-28,Bundesministerium für soziale Verwaltung
-Kreisky II,Dr. Fred Sinowatz,Fred Sinowatz,Bundesminister,1971-11-04,1975-10-28,Bundesministerium für Unterricht und Kunst
-Kreisky II,Erwin Lanc,Erwin Lanc,Bundesminister,1973-09-17,1975-10-28,Bundesministerium für Verkehr
-Kreisky II,Erwin Frühbauer,Erwin Frühbauer,Bundesminister,1971-11-04,1973-09-17,Bundesministerium für Verkehr
-Kreisky II,Dr. Dr. h.c. Hertha Firnberg,Hertha Firnberg,Bundesministerin,1971-11-04,1975-10-28,Bundesministerium für Wissenschaft und Forschung
-Kreisky II,Dr. Ingrid Leodolter,Ingrid Leodolter,Bundesministerin,1972-02-02,1975-10-27,Bundesministerium für Gesundheit und Umweltschutz
-Kreisky I,Dr. Bruno Kreisky,Bruno Kreisky,Bundeskanzler,1970-04-21,1971-11-04,Bundeskanzleramt
-Kreisky I,Ing. Rudolf Häuser,Rudolf Häuser,Vizekanzler,1970-04-21,1971-11-04,Bundeskanzleramt
-Kreisky I,Dr. Dr. h.c. Hertha Firnberg,Hertha Firnberg,Bundesministerin ohne Portefeuille,1970-04-21,1970-07-26,Bundeskanzleramt
-Kreisky I,Dr. Ernst Eugen Veselsky,Ernst Eugen Veselsky,Staatssekretär,1970-04-21,1971-11-04,Bundeskanzleramt
-Kreisky I,Dr. Rudolf Kirchschläger,Rudolf Kirchschläger,Bundesminister,1970-04-21,1971-11-04,Bundesministerium für Auswärtige Angelegenheiten
-Kreisky I,Erwin Frühbauer,Erwin Frühbauer,Bundesminister,1970-07-09,1971-11-04,Bundesministerium für Verkehr
-Kreisky I,Otto Rösch,Otto Rösch,Bundesminister,1970-04-21,1971-11-03,Bundesministerium für Inneres
-Kreisky I,Dr. Christian Broda,Christian Broda,Bundesminister,1970-04-21,1971-11-03,Bundesministerium für Justiz
-Kreisky I,Mag. Leopold Gratz,Leopold Gratz,Bundesminister,1970-04-21,1970-07-08,Bundesministerium für Unterricht
-Kreisky I,Ing. Rudolf Häuser,Rudolf Häuser,Betraut mit der Leitung des Bundesministeriums,1970-04-21,1971-11-03,Bundesministerium für soziale Verwaltung
-Kreisky I,Gertrude Wondrack,Gertrude Wondrack,Staatssekretärin,1970-04-21,1971-07-31,Bundesministerium für soziale Verwaltung
-Kreisky I,Dipl.-Kfm. Dr. Hannes Androsch,Hannes Androsch,Bundesminister,1970-04-21,1971-11-03,Bundesministerium für Finanzen
-Kreisky I,Dipl.-Ing. Dr. Oskar Weihs,Oskar Weihs,Bundesminister,1970-05-22,1971-11-03,Bundesministerium für Land- und Forstwirtschaft
-Kreisky I,Dipl.-Ing. Dr. Johann Öllinger,Johann Öllinger,Bundesminister,1970-04-21,1970-05-22,Bundesministerium für Land- und Forstwirtschaft
-Kreisky I,Dipl.-Vw. Dr. Josef Staribacher,Josef Staribacher,Bundesminister,1970-04-21,1971-11-03,"Bundesministerium für Handel, Gewerbe und Industrie"
-Kreisky I,Erwin Frühbauer,Erwin Frühbauer,Bundesminister,1970-04-21,1970-07-08,Bundesministerium für Verkehr und verstaatlichte Unternehmungen
-Kreisky I,Karl Lütgendorf,Karl Lütgendorf,Bundesminister,1971-02-08,1971-11-03,Bundesministerium für Landesverteidigung
-Kreisky I,Dr. Bruno Kreisky,Bruno Kreisky,Betraut mit der Leitung des Bundesministeriums,1971-02-04,1971-02-08,Bundesministerium für Landesverteidigung
-Kreisky I,Johann Freihsler,Johann Freihsler,Bundesminister,1970-04-21,1971-02-04,Bundesministerium für Landesverteidigung
-Kreisky I,Josef Moser,Josef Moser,Bundesminister,1970-04-21,1971-11-03,Bundesministerium für Bauten und Technik
-Klaus II,Dr. Josef Klaus,Josef Klaus,Bundeskanzler,1966-04-19,1970-04-21,Bundeskanzleramt
-Klaus II,Dr. Hermann Withalm,Hermann Withalm,Vizekanzler,1968-01-19,1970-04-21,Bundeskanzleramt
-Klaus II,Dr. Fritz Bock,Fritz Bock,Vizekanzler,1966-04-19,1968-01-19,Bundeskanzleramt
-Klaus II,Dr. Vinzenz Kotzina,Vinzenz Kotzina,Bundesminister ohne Portefeuille,1966-04-19,1966-06-06,Bundeskanzleramt
-Klaus II,Dr. Heinrich Neisser,Heinrich Neisser,Staatssekretär,1969-06-02,1970-04-21,Bundeskanzleramt
-Klaus II,Karl Pisa,Karl Pisa,Staatssekretär,1968-01-19,1969-06-02,Bundeskanzleramt
-Klaus II,Dipl.-Ing. Dr. Karl Gruber,Karl Gruber,Staatssekretär im Bundeskanzleramt,1966-04-26,1969-05-13,Bundeskanzleramt
-Klaus II,Dipl.-Vw. Dr. Stephan Koren,Stephan Koren,Staatssekretär,1967-03-31,1968-01-19,Bundeskanzleramt
-Klaus II,Franz Soronics,Franz Soronics,Bundesminister,1968-01-19,1970-04-21,Bundesministerium für Inneres
-Klaus II,Dr. Franz Hetzenauer,Franz Hetzenauer,Bundesminister,1966-04-19,1968-01-19,Bundesministerium für Inneres
-Klaus II,Mag. Roland Minkowitsch,Roland Minkowitsch,Staatssekretär,1968-01-19,1970-04-21,Bundesministerium für Inneres
-Klaus II,Dr. Johann Haider,Johann Haider,Staatssekretär,1966-04-19,1968-01-19,Bundesministerium für Inneres
-Klaus II,Dr. Hans Klecatsky,Hans Klecatsky,Bundesminister,1966-04-19,1970-04-21,Bundesministerium für Justiz
-Klaus II,Dr. Alois Mock,Alois Mock,Bundesminister,1969-06-02,1970-04-21,Bundesministerium für Unterricht
-Klaus II,Dr. Theodor Piffl-Percevic,Theodor Piffl-Percevic,Bundesminister,1966-04-19,1969-06-02,Bundesministerium für Unterricht
-Klaus II,Grete Rehor,Grete Rehor,Bundesministerin,1966-04-19,1970-04-21,Bundesministerium für soziale Verwaltung
-Klaus II,Hans Bürkle,Hans Bürkle,Staatssekretär,1968-01-19,1970-04-21,Bundesministerium für soziale Verwaltung
-Klaus II,Franz Soronics,Franz Soronics,Staatssekretär,1966-04-19,1968-01-19,Bundesministerium für soziale Verwaltung
-Klaus II,Dipl.-Vw. Dr. Stephan Koren,Stephan Koren,Bundesminister,1968-01-19,1970-04-21,Bundesministerium für Finanzen
-Klaus II,Dr. Wolfgang Schmitz,Wolfgang Schmitz,Bundesminister,1966-04-19,1968-01-19,Bundesministerium für Finanzen
-Klaus II,Dipl.-Ing. Dr. Karl Schleinzer,Karl Schleinzer,Bundesminister,1966-04-19,1970-04-21,Bundesministerium für Land- und Forstwirtschaft
-Klaus II,Otto Mitterer,Otto Mitterer,Bundesminister,1968-01-19,1970-04-21,"Bundesministerium für Handel, Gewerbe und Industrie"
-Klaus II,Dr. Fritz Bock,Fritz Bock,Betraut mit der Leitung des Bundesministeriums,1966-05-25,1968-01-19,"Bundesministerium für Handel, Gewerbe und Industrie"
-Klaus II,Dipl.-Ing. Dr. Ludwig Weiß,Ludwig Weiß,Bundesminister,1966-05-25,1970-04-21,Bundesministerium für Verkehr und verstaatlichte Unternehmungen
-Klaus II,Dr. Josef Taus,Josef Taus,Staatssekretär,1966-05-25,1967-03-30,Bundesministerium für Verkehr und verstaatlichte Unternehmungen
-Klaus II,Dr. Georg Prader,Georg Prader,Bundesminister,1966-04-19,1970-04-21,Bundesministerium für Landesverteidigung
-Klaus II,Dr. Vinzenz Kotzina,Vinzenz Kotzina,Bundesminister,1966-06-06,1970-04-21,Bundesministerium für Bauten und Technik
-Klaus II,Dr. Kurt Waldheim,Kurt Waldheim,Bundesminister,1968-01-19,1970-04-20,Bundesministerium für auswärtige Angelegenheiten
-Klaus II,Dr. Lujo Toncic-Sorinj,Lujo Toncic-Sorinj,Bundesminister,1966-04-19,1968-01-19,Bundesministerium für auswärtige Angelegenheiten
-Klaus II,Dr. Carl H Bobleter,Carl H Bobleter,Staatssekretär,1966-04-19,1968-01-19,Bundesministerium für auswärtige Angelegenheiten
-Klaus II,Dr. Fritz Bock,Fritz Bock,Bundesminister,1966-04-19,1966-05-24,Bundesministerium für Handel und Wiederaufbau
-Klaus II,Dipl.-Ing. Dr. Ludwig Weiß,Ludwig Weiß,Bundesminister,1966-04-19,1966-05-24,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Klaus II,Dr. Josef Taus,Josef Taus,Staatssekretär,1966-04-19,1966-05-24,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Klaus I,Dr. Josef Klaus,Josef Klaus,Bundeskanzler,1964-04-02,1966-04-19,Bundeskanzleramt
-Klaus I,DDr. Bruno Pittermann,Bruno Pittermann,Vizekanzler,1964-04-02,1966-04-19,Bundeskanzleramt
-Klaus I,DDr. Bruno Pittermann,Bruno Pittermann,Betraut mit der Leitung der Agenden des Bundeskanzleramtes - Verstaatlichte Unternehmungen (Sektion IV),1964-04-02,1966-04-19,Bundeskanzleramt
-Klaus I,Hans Czettel,Hans Czettel,Bundesminister,1964-09-21,1966-04-19,Bundesministerium für Inneres
-Klaus I,Franz Olah,Franz Olah,Bundesminister,1964-04-02,1964-09-21,Bundesministerium für Inneres
-Klaus I,Franz Soronics,Franz Soronics,Staatssekretär,1964-04-02,1966-04-19,Bundesministerium für Inneres
-Klaus I,Dr. Christian Broda,Christian Broda,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Justiz
-Klaus I,Dr. Franz Hetzenauer,Franz Hetzenauer,Staatssekretär,1964-04-02,1966-04-19,Bundesministerium für Justiz
-Klaus I,Dr. Theodor Piffl-Percevic,Theodor Piffl-Percevic,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Unterricht
-Klaus I,Anton Proksch,Anton Proksch,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für soziale Verwaltung
-Klaus I,Dr. Wolfgang Schmitz,Wolfgang Schmitz,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Finanzen
-Klaus I,Dipl.-Ing. Dr. Karl Schleinzer,Karl Schleinzer,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Land- und Forstwirtschaft
-Klaus I,Dr. Fritz Bock,Fritz Bock,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Handel und Wiederaufbau
-Klaus I,Dr. Vinzenz Kotzina,Vinzenz Kotzina,Staatssekretär,1964-04-02,1966-04-19,Bundesministerium für Handel und Wiederaufbau
-Klaus I,Eduard Weikhart,Eduard Weikhart,Staatssekretär,1964-04-02,1966-04-19,Bundesministerium für Handel und Wiederaufbau
-Klaus I,Otto Probst,Otto Probst,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Klaus I,Dr. Georg Prader,Georg Prader,Bundesminister,1964-04-02,1966-04-19,Bundesministerium für Landesverteidigung
-Klaus I,Otto Rösch,Otto Rösch,Staatssekretär,1964-04-02,1966-04-19,Bundesministerium für Landesverteidigung
-Klaus I,Dr. Bruno Kreisky,Bruno Kreisky,Bundesminister,1964-04-02,1966-04-18,Bundesministerium für Auswärtige Angelegenheiten
-Klaus I,Dr. Carl H Bobleter,Carl H Bobleter,Staatssekretär,1964-04-02,1966-04-18,Bundesministerium für Auswärtige Angelegenheiten
-Gorbach II,Dr. Alfons Gorbach,Alfons Gorbach,Bundeskanzler,1963-03-27,1964-04-02,Bundeskanzleramt
-Gorbach II,DDr. Bruno Pittermann,Bruno Pittermann,Vizekanzler,1963-03-27,1964-04-02,Bundeskanzleramt
-Gorbach II,DDr. Bruno Pittermann,Bruno Pittermann,Betraut mit der Leitung der Agenden des Bundeskanzleramtes - Verstaatlichte Unternehmungen (Sektion IV),1963-03-27,1964-04-02,Bundeskanzleramt
-Gorbach II,Dr. Bruno Kreisky,Bruno Kreisky,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Auswärtige Angelegenheiten
-Gorbach II,Dipl.-Vw. Dr. Ludwig Steiner,Ludwig Steiner,Staatssekretär,1963-03-27,1964-04-02,Bundesministerium für Auswärtige Angelegenheiten
-Gorbach II,Franz Olah,Franz Olah,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Inneres
-Gorbach II,Franz Soronics,Franz Soronics,Staatssekretär,1963-11-05,1964-04-02,Bundesministerium für Inneres
-Gorbach II,Dr. Otto Kranzlmayr,Otto Kranzlmayr,Staatssekretär,1963-03-27,1963-11-05,Bundesministerium für Inneres
-Gorbach II,Dr. Christian Broda,Christian Broda,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Justiz
-Gorbach II,Dr. Franz Hetzenauer,Franz Hetzenauer,Staatssekretär,1963-03-27,1964-04-02,Bundesministerium für Justiz
-Gorbach II,Dr. Heinrich Drimmel,Heinrich Drimmel,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Unterricht
-Gorbach II,Anton Proksch,Anton Proksch,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für soziale Verwaltung
-Gorbach II,Dr. Franz Korinek,Franz Korinek,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Finanzen
-Gorbach II,Dipl.-Ing. Eduard Hartmann,Eduard Hartmann,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Land- und Forstwirtschaft
-Gorbach II,Dr. Fritz Bock,Fritz Bock,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Handel und Wiederaufbau
-Gorbach II,Dr. Vinzenz Kotzina,Vinzenz Kotzina,Staatssekretär,1963-03-27,1964-04-02,Bundesministerium für Handel und Wiederaufbau
-Gorbach II,Eduard Weikhart,Eduard Weikhart,Staatssekretär,1963-03-27,1964-04-02,Bundesministerium für Handel und Wiederaufbau
-Gorbach II,Otto Probst,Otto Probst,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Gorbach II,Dipl.-Ing. Dr. Karl Schleinzer,Karl Schleinzer,Bundesminister,1963-03-27,1964-04-02,Bundesministerium für Landesverteidigung
-Gorbach II,Otto Rösch,Otto Rösch,Staatssekretär,1963-03-27,1964-04-02,Bundesministerium für Landesverteidigung
-Gorbach I,Dr. Alfons Gorbach,Alfons Gorbach,Bundeskanzler,1961-04-11,1963-03-27,Bundeskanzleramt
-Gorbach I,DDr. Bruno Pittermann,Bruno Pittermann,Vizekanzler,1961-04-11,1963-03-27,Bundeskanzleramt
-Gorbach I,DDr. Bruno Pittermann,Bruno Pittermann,Betraut mit der Leitung der Agenden des Bundeskanzleramtes - Verstaatlichte Unternehmungen (Sektion IV),1961-04-11,1963-03-27,Bundeskanzleramt
-Gorbach I,Dr. Bruno Kreisky,Bruno Kreisky,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Auswärtige Angelegenheiten
-Gorbach I,Dipl.-Vw. Dr. Ludwig Steiner,Ludwig Steiner,Staatssekretär,1961-04-11,1963-03-27,Bundesministerium für Auswärtige Angelegenheiten
-Gorbach I,Josef Afritsch,Josef Afritsch,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Inneres
-Gorbach I,Dr. Otto Kranzlmayr,Otto Kranzlmayr,Staatssekretär,1961-04-11,1963-03-27,Bundesministerium für Inneres
-Gorbach I,Dr. Christian Broda,Christian Broda,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Justiz
-Gorbach I,Dr. Heinrich Drimmel,Heinrich Drimmel,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Unterricht
-Gorbach I,Anton Proksch,Anton Proksch,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für soziale Verwaltung
-Gorbach I,Dr. Josef Klaus,Josef Klaus,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Finanzen
-Gorbach I,Dipl.-Ing. Eduard Hartmann,Eduard Hartmann,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Land- und Forstwirtschaft
-Gorbach I,Dr. Fritz Bock,Fritz Bock,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Handel und Wiederaufbau
-Gorbach I,Eduard Weikhart,Eduard Weikhart,Staatssekretär,1961-04-11,1963-03-27,Bundesministerium für Handel und Wiederaufbau
-Gorbach I,Dipl.-Ing. Karl Waldbrunner,Karl Waldbrunner,Bundesminister,1961-04-11,1962-12-14,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Gorbach I,Dipl.-Ing. Dr. Karl Schleinzer,Karl Schleinzer,Bundesminister,1961-04-11,1963-03-27,Bundesministerium für Landesverteidigung
-Gorbach I,Otto Rösch,Otto Rösch,Staatssekretär,1961-04-11,1963-03-27,Bundesministerium für Landesverteidigung
-Raab IV,Ing. DDDr. Julius Raab,Julius Raab,Bundeskanzler,1960-11-03,1961-04-11,Bundeskanzleramt
-Raab IV,DDr. Bruno Pittermann,Bruno Pittermann,Vizekanzler,1960-11-03,1961-04-11,Bundeskanzleramt
-Raab IV,DDr. Bruno Pittermann,Bruno Pittermann,Betraut mit der Leitung der Agenden des Bundeskanzleramtes - Verstaatlichte Unternehmungen (Sektion IV),1960-11-03,1961-04-11,Bundeskanzleramt
-Raab IV,Dr. Bruno Kreisky,Bruno Kreisky,Bundesminister,1960-11-04,1961-04-11,Bundesministerium für Auswärtige Angelegenheiten
-Raab IV,Dr. Franz Gschnitzer,Franz Gschnitzer,Staatssekretär,1960-11-04,1961-04-11,Bundesministerium für Auswärtige Angelegenheiten
-Raab IV,Josef Afritsch,Josef Afritsch,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Inneres
-Raab IV,Franz Grubhofer,Franz Grubhofer,Staatssekretär,1960-11-03,1961-04-11,Bundesministerium für Inneres
-Raab IV,Dr. Christian Broda,Christian Broda,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Justiz
-Raab IV,Dr. Heinrich Drimmel,Heinrich Drimmel,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Unterricht
-Raab IV,Anton Proksch,Anton Proksch,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für soziale Verwaltung
-Raab IV,Dr. Eduard Heilingsetzer,Eduard Heilingsetzer,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Finanzen
-Raab IV,Dipl.-Ing. Eduard Hartmann,Eduard Hartmann,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Land- und Forstwirtschaft
-Raab IV,Dr. Fritz Bock,Fritz Bock,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Handel und Wiederaufbau
-Raab IV,Eduard Weikhart,Eduard Weikhart,Staatssekretär,1960-11-03,1961-04-11,Bundesministerium für Handel und Wiederaufbau
-Raab IV,Dipl.-Ing. Karl Waldbrunner,Karl Waldbrunner,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Raab IV,Ferdinand Graf,Ferdinand Graf,Bundesminister,1960-11-03,1961-04-11,Bundesministerium für Landesverteidigung
-Raab IV,Otto Rösch,Otto Rösch,Staatssekretär,1960-11-03,1961-04-11,Bundesministerium für Landesverteidigung
-Raab III,Ing. DDDr. Julius Raab,Julius Raab,Bundeskanzler,1959-07-16,1960-11-03,Bundeskanzleramt
-Raab III,DDr. Bruno Pittermann,Bruno Pittermann,Vizekanzler,1959-07-16,1960-11-03,Bundeskanzleramt
-Raab III,DDr. Bruno Pittermann,Bruno Pittermann,Betraut mit der Leitung der Agenden des Bundeskanzleramtes - Verstaatlichte Unternehmungen (Sektion IV),1959-07-29,1960-11-03,Bundeskanzleramt
-Raab III,Dr. Bruno Kreisky,Bruno Kreisky,Bundesminister für die auswärtigen Angelegenheiten,1959-07-16,1959-07-31,Bundeskanzleramt
-Raab III,Dr. Franz Gschnitzer,Franz Gschnitzer,Staatssekretär für die auswärtigen Angelegenheiten,1959-07-16,1959-07-31,Bundeskanzleramt
-Raab III,Josef Afritsch,Josef Afritsch,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für Inneres
-Raab III,Franz Grubhofer,Franz Grubhofer,Staatssekretär,1959-07-16,1960-11-03,Bundesministerium für Inneres
-Raab III,Dr. Christian Broda,Christian Broda,Bundesminister,1960-06-23,1960-11-03,Bundesministerium für Justiz
-Raab III,Dr. Otto Tschadek,Otto Tschadek,Bundesminister,1959-07-16,1960-06-23,Bundesministerium für Justiz
-Raab III,Dr. Heinrich Drimmel,Heinrich Drimmel,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für Unterricht
-Raab III,Anton Proksch,Anton Proksch,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für soziale Verwaltung
-Raab III,Dr. Eduard Heilingsetzer,Eduard Heilingsetzer,Bundesminister,1960-06-17,1960-11-03,Bundesministerium für Finanzen
-Raab III,Dr. Dr. h.c. Reinhard Kamitz,Reinhard Kamitz,Bundesminister,1959-07-16,1960-06-17,Bundesministerium für Finanzen
-Raab III,Dipl.-Ing. Eduard Hartmann,Eduard Hartmann,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für Land- und Forstwirtschaft
-Raab III,Dr. Fritz Bock,Fritz Bock,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für Handel und Wiederaufbau
-Raab III,Eduard Weikhart,Eduard Weikhart,Staatssekretär,1959-07-16,1960-11-03,Bundesministerium für Handel und Wiederaufbau
-Raab III,Dipl.-Ing. Karl Waldbrunner,Karl Waldbrunner,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für Verkehr und Elektrizitätswirtschaft
-Raab III,Ferdinand Graf,Ferdinand Graf,Bundesminister,1959-07-16,1960-11-03,Bundesministerium für Landesverteidigung
-Raab III,Otto Rösch,Otto Rösch,Staatssekretär,1959-10-19,1960-11-03,Bundesministerium für Landesverteidigung
-Raab III,Max Eibegger,Max Eibegger,Staatssekretär,1959-07-16,1959-10-19,Bundesministerium für Landesverteidigung
-Raab III,Dr. Bruno Kreisky,Bruno Kreisky,Bundesminister,1959-07-31,1960-11-03,Bundesministerium für Auswärtige Angelegenheiten
-Raab III,Dr. Franz Gschnitzer,Franz Gschnitzer,Staatssekretär,1959-07-31,1960-11-03,Bundesministerium für Auswärtige Angelegenheiten
-Raab II,Ing. DDDr. Julius Raab,Julius Raab,Bundeskanzler,1956-06-29,1959-07-16,Bundeskanzleramt
-Raab II,DDr. Bruno Pittermann,Bruno Pittermann,Vizekanzler,1957-05-22,1959-07-16,Bundeskanzleramt
-Raab II,Dr. Adolf Schärf,Adolf Schärf,Vizekanzler,1956-06-29,1957-05-05,Bundeskanzleramt
-Raab II,Dipl.-Ing. DDDr. h.c. Leopold Figl,Leopold Figl,Bundesminister für die auswärtigen Angelegenheiten,1956-06-29,1959-06-09,Bundeskanzleramt
-Raab II,Ferdinand Graf,Ferdinand Graf,Bundesminister ifür Angelegenheiten der Landesverteidigung,1956-06-29,1956-07-15,Bundeskanzleramt
-Raab II,Dr. Karl Stephani,Karl Stephani,Staatssekretär für Angelegenheiten der Landesverteidigung,1956-06-29,1956-07-15,Bundeskanzleramt
-Raab II,Dr. Franz Gschnitzer,Franz Gschnitzer,Staatssekretär für die auswärtigen Angelegenheiten,1956-06-29,1959-07-16,Bundeskanzleramt
-Raab II,Dr. Bruno Kreisky,Bruno Kreisky,Staatssekretär für die auswärtigen Angelegenheiten,1956-06-29,1959-07-16,Bundeskanzleramt
-Raab II,Oskar Helmer,Oskar Helmer,Bundesminister,1956-06-29,1959-07-15,Bundesministerium für Inneres
-Raab II,Franz Grubhofer,Franz Grubhofer,Staatssekretär,1956-06-29,1959-07-15,Bundesministerium für Inneres
-Raab II,Dr. Otto Tschadek,Otto Tschadek,Bundesminister,1956-06-29,1959-07-15,Bundesministerium für Justiz
-Raab II,Dr. Heinrich Drimmel,Heinrich Drimmel,Bundesminister,1956-06-29,1959-07-15,Bundesministerium für Unterricht
-Raab II,Anton Proksch,Anton Proksch,Bundesminister,1956-06-29,1959-07-15,Bundesministerium für soziale Verwaltung
-Raab II,Dr. Dr. h.c. Reinhard Kamitz,Reinhard Kamitz,Bundesminister,1956-06-29,1959-07-15,Bundesministerium für Finanzen
-Raab II,Dr. Hermann Withalm,Hermann Withalm,Staatssekretär,1956-10-12,1959-07-15,Bundesministerium für Finanzen
-Raab II,Dr. Fritz Bock,Fritz Bock,Staatssekretär,1956-06-29,1956-09-19,Bundesministerium für Finanzen
-Raab II,Franz Thoma,Franz Thoma,Bundesminister,1956-06-29,1959-07-15,Bundesministerium für Land- und Forstwirtschaft
-Raab II,Dipl.-Ing. Karl Waldbrunner,Karl Waldbrunner,Bundesminister,1956-06-29,1956-07-11,Bundesministerium für Verkehr und verstaatlichte Betriebe
-Raab II,Dr. Fritz Bock,Fritz Bock,Bundesminister,1956-09-19,1959-07-15,Bundesministerium für Handel und Wiederaufbau
-Raab II,DDDr. Udo Illig,Udo Illig,Bundesminister,1956-06-29,1956-09-19,Bundesministerium für Handel und Wiederaufbau
-Raab II,Eduard Weikhart,Eduard Weikhart,Staatssekretär,1956-06-29,1959-07-15,Bundesministerium für Handel und Wiederaufbau
 Raab I,Ing. DDDr. Julius Raab,Julius Raab,Bundeskanzler,1953-04-02,1956-06-29,Bundeskanzleramt
 Raab I,Dr. Adolf Schärf,Adolf Schärf,Vizekanzler,1953-04-02,1956-06-29,Bundeskanzleramt
 Raab I,Dipl.-Ing. DDDr. h.c. Leopold Figl,Leopold Figl,Bundesminister für die auswärtigen Angelegenheiten,1953-11-26,1956-06-29,Bundeskanzleramt
